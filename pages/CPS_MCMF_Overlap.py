@@ -3,7 +3,6 @@ import streamlit.components.v1 as components
 import pandas as pd
 from PIL import Image 
 st.set_page_config(layout="wide")
-st.sidebar.header("Plotting Demo")
 
 
 st.write("""
