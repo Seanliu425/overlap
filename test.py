@@ -3,16 +3,7 @@ import streamlit.components.v1 as components
 import pandas as pd
 from PIL import Image 
 st.set_page_config(layout="wide")
-st.markdown(
-        """
-        <style>
-        .stApp {
-            background-color: #FFFFFF; /* Change to your desired background color */
-        }
-        </style>
-        """,
-        unsafe_allow_html=True
-    )
+
 
 st.write("""
 # Understanding the Gap between MCMF and CPS Datasets in CPS
