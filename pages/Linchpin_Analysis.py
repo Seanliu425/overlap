@@ -6,7 +6,7 @@ def embed_pdf(pdf_path):
     with open(pdf_path, "rb") as f:
         pdf_bytes = f.read()
     pdf_base64 = base64.b64encode(pdf_bytes).decode()
-    st.markdown(f'<iframe src="data:application/pdf;base64,{pdf_base64}" width="100%" height="800"></iframe>', unsafe_allow_html=True)
+    st.markdown(f'<iframe src="dhttps://github.com/Seanliu425/overlap/blob/main/linchpin.pdf" width="100%" height="800"></iframe>', unsafe_allow_html=True)
 
 def main():
     st.title("Identifying Local Uniqueness in Social Networks")
