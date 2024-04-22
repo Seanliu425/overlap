@@ -1,6 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
+from PIL import Image 
 st.set_page_config(layout="wide")
 st.markdown(
         """
@@ -59,3 +60,34 @@ st.markdown(
         """,
         unsafe_allow_html=True
     )
+st.write("")
+st.write("*This might be a good spot to interject with a quick note on interpreting these social network graphs.* \
+         The graph format is arranged using a force-repulsion algorithm, meaning that nodes repel each other, but \
+         those with links between them attract each other. The resulting image depicts hubs of collaboration between organizations: \
+         nodes that are close in proximity are likely, but not guaranteed, to be connected.") 
+st.write("")
+st.write("In the graph above, we can see that the MCMF data continent is predominantly in the bottom right corner, with the CPS data grouping in the top left corner. \
+         *Note that these directions are arbitrarily assigned and do not have any meaning outside of separating groups.* \
+         When looking at the providers that appear in both datasets (in yellow), this means that nodes generally have a higher proportion of MCMF connections in the southeast corner and a higher proportion of CPS connections in the northwest corner. ")
+col2, col1 = st.columns(2)
+
+cpd = Image.open("CPD.png")
+col1.write("***CPD found in both datasets, majority MCMF connections***")
+col1.image(cpd, use_column_width= True)
+
+ymca = Image.open("YMCA.png")
+col2.write("***YMCA found in both datasets, majority CPS connections***")
+
+col2.image(ymca, use_column_width= True)
+
+st.header("MCMF/CPS OST Provider Network, Only Overlapping Providers")
+st.markdown(
+        """
+        <div style="border: 2px solid #000000; padding: 0px;">
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F52ef81dafb46b2657d0ce749093becb8%2Fraw%2F3b9c078e396e2fd5c269f3691bf9451b5c25c2e3%2FOverlapPastel.gexf&ca[]=i-s&ca[]=p&ca[]=o-s&ca[]=d-s&ca[]=wi-s&ca[]=wo-s&ca[]=wd-s&st[]=p&st[]=d-n&p.t=CPS%2FMCMF%20Provider&nr=0.954&lt=1.555" width="100%" height="600" style="border:none;"></iframe>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+st.write("")
+st.write("We can note that most of the overlapping nodes fall generally in between the two main hubs, an intuitive result.") 
