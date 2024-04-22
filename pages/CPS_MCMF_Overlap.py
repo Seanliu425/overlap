@@ -3,15 +3,16 @@ import streamlit.components.v1 as components
 import pandas as pd
 from PIL import Image 
 st.set_page_config(layout="wide")
+st.sidebar.header("Plotting Demo")
 
 
 st.write("""
 # Understanding the Gap between MCMF and CPS Datasets in CPS
-Within the Chicago Afterschool Provider Ecosystem, there are two central stakeholders: The My Chi, 
+When navigating the Chicago afterschool ecosystem, there are two names that you will encounter time and again: The My Chi, 
          My Future Platform originating from the Mayor's office, and Chicago Public Schools. 
 """)
 st.write("")
-st.write("This webpage is an attempt at articulating the difference between the datasets, as well as thinking through ways to reconcile these differences: Below, you will find social networks visualizing both networks, individually. Feel free to have a look around.")
+st.write("This page is an attempt at articulating the difference between the datasets, as well as thinking through ways to reconcile these differences: Below, you will find social networks visualizing both networks, individually. Feel free to have a look around.")
 st.header("Chicago Public Schools OST Provider Network, Visualized")
 st.write("*Using 2023-2024 Data. Colors correspond to School Network, with Providers in Green. Node Size corresponds to degree.*")
 
