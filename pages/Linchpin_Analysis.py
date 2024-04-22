@@ -2,11 +2,8 @@ import streamlit as st
 import base64
 st.set_page_config(layout="wide")
 
-def embed_pdf(pdf_path):
-    with open(pdf_path, "rb") as f:
-        pdf_bytes = f.read()
-    pdf_base64 = base64.b64encode(pdf_bytes).decode()
-    st.markdown(f'<iframe src="dhttps://github.com/Seanliu425/overlap/blob/main/linchpin.pdf" width="100%" height="800"></iframe>', unsafe_allow_html=True)
+def embed_pdf(pdf_url):
+    st.markdown(f'<iframe src="{pdf_url}" width="100%" height="800"></iframe>', unsafe_allow_html=True)
 
 def main():
     st.title("Identifying Local Uniqueness in Social Networks")
@@ -26,12 +23,14 @@ def main():
     st.write("")
     st.write("As important as the civic institutions are, we also wanted to shine light on hyperlocal civic organizations that might not\
               have network-wide impact. This led us to the Moen Lab's work on [Linchpins](https://moen-lab.com/linchpin-score#:~:text=Linchpin%20score%20is%20a%20network,specialty%20among%20their%20neighbors'%20ties.)\
-             a method of identifying locally unique providers within a network. You can read more about the methodology in the poster below." )
-    pdf_path = "linchpin.pdf"
+             a method of identifying locally unique providers within a network. You can read more about the methodology in the poster below" )
+
     st.write("")
     st.write("***Navigating Scale-Free OST Provider Networks within Afterschool Ecosystems:***")
 
-    embed_pdf(pdf_path)
+    pdf_url = "https://github.com/Seanliu425/overlap/blob/3f9551a87d19796e7618e3a80ae831e2ce223057/linchpin.pdf"
+
+    embed_pdf(pdf_url)
 
 if __name__ == "__main__":
     main()
