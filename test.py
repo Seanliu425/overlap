@@ -20,8 +20,7 @@ Within the Chicago Afterschool Provider Ecosystem, there are two central stakeho
          My Future Platform originating from the Mayor's office, and Chicago Public Schools. 
 """)
 st.write("")
-st.write("This webpage is an attempt at articulating the difference between the datasets, as well as thinking through ways to reconcile these differences")
-st.write("Below, you will find social networks visualizing both networks, individually. Feel free to have a look around.")
+st.write("This webpage is an attempt at articulating the difference between the datasets, as well as thinking through ways to reconcile these differences: Below, you will find social networks visualizing both networks, individually. Feel free to have a look around.")
 st.header("Chicago Public Schools OST Provider Network, Visualized")
 st.write("*Using 2023-2024 Data. Colors correspond to School Network, with Providers in Green. Node Size corresponds to degree.*")
 
@@ -49,7 +48,13 @@ st.markdown(
         unsafe_allow_html=True
     )
 st.write("")
-st.write("Do you notice anything? See how many providers you can find that exist both in graphs. ")
+st.write("These graphs aim to visually articulate networks of collaboration within the two datasets. They can help to identify the major players within the network, as well as assets within specific communities")
+
+st.write("The graph format is arranged using a force-repulsion algorithm, meaning that nodes repel each other, but \
+         those with links between them attract each other. The resulting image depicts hubs of collaboration between organizations: \
+         nodes that are close in proximity are likely, but not guaranteed, to be connected.") 
+
+st.write("***Do you notice anything? See how many providers you can find that exist both in graphs.***")
 st.header("My Chi, My Future and CPS OST Provider Network, Visualized")
 st.write("*Using 2023-2024 Data. CPS Providers in Green, MCMF Providers in Purple, overlapping providers in Yellow. Node Size Corresponds to Degree*")
 st.markdown(
@@ -60,15 +65,12 @@ st.markdown(
         """,
         unsafe_allow_html=True
     )
+
 st.write("")
-st.write("*This might be a good spot to interject with a quick note on interpreting these social network graphs.* \
-         The graph format is arranged using a force-repulsion algorithm, meaning that nodes repel each other, but \
-         those with links between them attract each other. The resulting image depicts hubs of collaboration between organizations: \
-         nodes that are close in proximity are likely, but not guaranteed, to be connected.") 
-st.write("")
-st.write("In the graph above, we can see that the MCMF data continent is predominantly in the bottom right corner, with the CPS data grouping in the top left corner. \
+st.write("The graph above is an aggregation of the two prior graphs, attempting to capture overlap between providers in both platforms. *Fuzzyjoins were used to ensure that stylistic name variations were accounted for.* ")
+st.write("We can see that the MCMF data continent is predominantly in the bottom right corner, with the CPS data grouping in the top left corner. \
          *Note that these directions are arbitrarily assigned and do not have any meaning outside of separating groups.* \
-         When looking at the providers that appear in both datasets (in yellow), this means that nodes generally have a higher proportion of MCMF connections in the southeast corner and a higher proportion of CPS connections in the northwest corner. ")
+         When looking at the providers that appear in both datasets (in yellow), this means that nodes generally have a higher proportion of MCMF connections in the *southeast corner* and a higher proportion of CPS connections in the *northwest corner*. ")
 col2, col1 = st.columns(2)
 
 cpd = Image.open("CPD.png")
