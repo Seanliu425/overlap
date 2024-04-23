@@ -84,3 +84,7 @@ st.markdown(
     )
 st.write("")
 st.write("We can note that most of the overlapping nodes fall generally in between the two main hubs, an intuitive result.") 
+st.write("*These graphs are pretty and all, but what can we draw from these insights?*")
+st.header("Data:")
+st.write("An easy incongruency to see is the difference in structure between the two data sets: CPS lists their providers in relation to school names, while MCMF lists their providers in relation to physical addresses. Moreover, CPS data is sorted into school networks, while MCMF data is sorted by neighborhood.")
+st.write("Data alignment in these categories would help facillitate further analysis, but these limitations **do not change** the fact that there is so little overlap in the provider category: 22/466 providers can be found in both data sets, or about 4.7%  ")
