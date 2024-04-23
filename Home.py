@@ -11,7 +11,7 @@ st.sidebar.success("Take a look at different aspects of our exploration above:")
 
 st.markdown(
     """
-    As part of a comprehensive Opportunity Landscaping initiative within the City of Chicago, the team at [Digital Youth Network](digitalyouthnetwork.com)
+    As part of a comprehensive Opportunity Landscaping initiative within the City of Chicago, the team at [Digital Youth Network](digitalyouthnetwork.org)
     has been exploring social network analysis as a lens through which to understand opportunity distribution, and identify ways to map opportunity equitably.
     
     This page serves to document the corpus of work that DYN has been tinkering with over the past year. Please navigate the search bar to see examples of our work. 
