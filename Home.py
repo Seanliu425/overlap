@@ -16,6 +16,7 @@ st.markdown(
     
     This page serves to document the corpus of work that DYN has been tinkering with over the past year. Please navigate the search bar to see examples of our work. 
 
+    ### What is Social Network Analysis?
     
     Social network analysis is the process of investigating social structures 
     through the use of networks and graph theory. It characterizes networked structures 
