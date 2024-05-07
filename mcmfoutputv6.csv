@@ -1,0 +1,501 @@
+Address,Name,Formatted Address,Types,Match Score
+3631 N Keeler Ave,Keeler Gardens,"3631 north keeler avenue, chicago","park, point_of_interest, establishment",0.7
+3633 N California Ave,TC Scholars Preschool,"3633 north california avenue, chicago","point_of_interest, school, establishment",0.73
+3635 N Clark St,Gallagher Way,"3635 north clark street, chicago","park, point_of_interest, establishment",0.68
+3636 S Iron St,ShowcaseGCS,"3636 south iron street, chicago","point_of_interest, establishment",0.67
+3643 W Belmont Ave,June J. Htun,"3643 west belmont avenue, chicago","lawyer, point_of_interest, establishment",0.72
+3647 S State St,"Chicago Bee Branch, Chicago Public Library","3647 south state street, chicago","library, point_of_interest, establishment",0.68
+3650 W School St,Frank W Reilly School,"3650 west school street, chicago","primary_school, school, point_of_interest, establishment",0.69
+3651 W Schubert Ave,Monroe Elementary School,"3651 west schubert avenue, chicago","primary_school, school, point_of_interest, establishment",0.73
+3656 N Halsted St,"Jack F. Shauger, LCSW","3656 north halsted street, chicago","point_of_interest, establishment",0.69
+3659 W Armitage Ave,Weegee's Lounge,"3659 west armitage avenue, chicago","night_club, bar, point_of_interest, establishment",0.73
+3660 W 23rd St,,,,
+3663 S Wabash Ave,Perspectives/IIT Math & Science Academy,"3663 south wabash avenue, chicago","secondary_school, school, point_of_interest, establishment",0.7
+37 E 37th St,,,,
+37 E Lorraine Ave,Stardust Bowl,"37 east lorraine avenue, addison","bowling_alley, point_of_interest, establishment",0.71
+3700 N Western Ave,Waveland Bowl,"3700 north western avenue, chicago","bowling_alley, point_of_interest, establishment",0.71
+3700 S State St,,,,
+3701 N Ravenswood Ave,T60 Productions,"3701 north ravenswood avenue, chicago","point_of_interest, establishment",0.73
+3701 W Ogden Ave,Carole Robertson Center for Learning,"3701 west ogden avenue, chicago","point_of_interest, establishment",0.7
+3709 W Grand Ave,River City Community Church,"3709 west grand avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.7
+3710 E 106th St,"Vodak-East Side Branch, Chicago Public Library","3710 east 106th street, chicago","library, point_of_interest, establishment",0.69
+3711 S Ashland Ave,Trejo's Iron Works,"3701 south ashland avenue, chicago","point_of_interest, establishment",0.68
+3711 S Halsted St,Baltazar Law Office,"3701 south halsted street, chicago","lawyer, point_of_interest, establishment",0.67
+3711 S Vincennes Ave,"AR Designs, Inc.","3711 south vincennes avenue, chicago","point_of_interest, establishment",0.72
+3711 W Chicago Ave,PrintWithMe Print Kiosk at Blocks Together,"3711 west chicago avenue, chicago","point_of_interest, store, establishment",0.72
+3711 W Douglas Blvd,Theodore Herzl Elementary School,"3711 west douglas boulevard, chicago","primary_school, school, point_of_interest, establishment",0.71
+3718 S Prairie Ave,Anderson (Louis) Park,"3748 south prairie avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.68
+3720 N Lincoln Ave,PrintWithMe Print Kiosk at Lincoln Cafe and Market,"3720 north lincoln avenue, chicago","store, point_of_interest, establishment",0.71
+3721 W 111th St,Mount Greenwood Park Pool (Outdoor),"3721 west 111th street, chicago","point_of_interest, establishment",0.69
+3729 W Leland Ave,North River Elementary School,"3729 west leland avenue, chicago","primary_school, point_of_interest, school, establishment",0.71
+3730 W Bryn Mawr Ave,Friends of Northside Learning Center,"3730 west bryn mawr avenue, chicago","point_of_interest, establishment",0.73
+3737 N Mozart St,Edward. J. Abel Building,"3737 north mozart street, chicago","point_of_interest, establishment",0.68
+3737 S Paulina St,Namaste Charter School,"3737 south paulina street, chicago","school, point_of_interest, establishment",0.69
+3740 W 31st St,,,,
+3745 S Indiana Ave,Ignite - Belfort House,"3745 south indiana avenue, chicago","point_of_interest, establishment",0.71
+3745 W Cortland St,Bearse USA,"3815 west cortland street, chicago","store, point_of_interest, establishment",0.66
+3748 S Prairie Ave,Anderson (Louis) Park,"3748 south prairie avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.71
+375 W Elm St,Seward (William) Park,"375 west elm street, chicago","park, tourist_attraction, point_of_interest, establishment",0.66
+3751 W 63rd St,Palermo's of 63rd Pizza and Restaurant,"3751 west 63rd street, chicago","restaurant, food, point_of_interest, establishment",0.68
+3755 S Cottage Grove Ave,Dr. Daniel P Vicencio,"3755 south cottage grove avenue, chicago","doctor, health, point_of_interest, establishment",0.75
+3757 S Wells St,,,,
+3757 S Wentworth Ave,Wentworth-Gardens Management,"3770 south wentworth avenue, chicago","point_of_interest, local_government_office, establishment",0.7
+3759 S Wells St,,,,
+3770 S Wentworth Ave,Wentworth Gardens (John) Park,"3770 south wentworth avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.72
+38 S Peoria St,Lake Shore Church,"joy faith knapp music center, 38 south peoria street, chicago","church, place_of_worship, point_of_interest, establishment",0.82
+3801 W 45th St,MR.Khan's Best HALAL FOOD,"west 45th street, new york","restaurant, food, point_of_interest, establishment",0.63
+3810 W Chicago Ave,Instant Tax Service,"3806 west chicago avenue, chicago","finance, point_of_interest, establishment",0.69
+3815 N Kedvale Ave,Disney II Magnet Elementary School,"3815 north kedvale avenue, chicago","primary_school, school, point_of_interest, establishment",0.71
+3825 S Vincennes Ave,Toastmasters,"3725 south vincennes avenue, chicago","point_of_interest, establishment",0.7
+3825 S Washtenaw Ave,Brighton Park Elementary School,"3825 south washtenaw avenue, chicago","primary_school, point_of_interest, school, establishment",0.72
+3826 W 58th St,,,,
+3830 S Archer Ave,Richard Carrasco American Family Insurance,"3836 south archer avenue, chicago","insurance_agency, point_of_interest, establishment",0.68
+3831 S Michigan Ave,South Side Community Art Center,"3831 south michigan avenue, chicago","museum, art_gallery, point_of_interest, establishment",0.72
+3843 N California Ave,S M G Soldier Field,"3843 north california avenue, chicago","point_of_interest, establishment",0.73
+3847 S Giles Ave,Brownville Club House,"3847 south giles avenue, chicago","restaurant, food, point_of_interest, establishment",0.69
+3849 W 69th Pl,School,"3849 west 69th place, chicago","primary_school, school, point_of_interest, establishment",0.69
+3855 N Seeley Ave,Concordia Place,"3855 north seeley avenue, chicago","school, point_of_interest, establishment",0.7
+3857 W 111th St,Chicago High School for Agricultural Sciences,"3857 west 111th street, chicago","secondary_school, school, point_of_interest, establishment",0.69
+3858 S Cottage Grove Ave,Mandrake Park,"3858 south cottage grove avenue, chicago","park, point_of_interest, establishment",0.75
+39 W 47th St,Albert & Son's Jewelry,"37 west 47th street, new york","jewelry_store, point_of_interest, store, establishment",0.64
+3900 N Lawndale Ave,Disney II Magnet School,"3900 north lawndale avenue, chicago","secondary_school, school, point_of_interest, establishment",0.72
+3900 S King Dr,,,,
+3901 S State St,Learning Resource Center,"3901 south state street, chicago","library, point_of_interest, establishment",0.68
+3906 S Lake Park Ave,Bronzeville Dog Park #591,"3906 south lake park avenue, chicago","park, point_of_interest, establishment",0.72
+3907 N Damen Ave,Commission Express in Chicago,"3907 north damen avenue, chicago","store, point_of_interest, establishment",0.69
+3917 W Division St,Harding (Frederick) Playground Park,"harding park, 3917 west division street, chicago","park, point_of_interest, establishment",0.79
+3932 S California Ave,Party Per Purpose,"3932 south california avenue, chicago","point_of_interest, establishment",0.73
+3934 S Wabash Ave,,,,
+3937 W Wilcox St,Delano Elementary School,"3937 west wilcox street, chicago","primary_school, school, point_of_interest, establishment",0.69
+3939 W 79th St,Bogan High School,"3939 west 79th street, chicago","secondary_school, school, point_of_interest, establishment",0.68
+3945 N Springfield Ave,Fitness Center,"3945 north springfield avenue, chicago","point_of_interest, health, establishment",0.74
+3947 S Michigan Ave,Elliot Donelley Youth Center,"3947 south michigan avenue, chicago","point_of_interest, establishment",0.72
+3948 W 26th St,Central States SER,"3948 west 26th street, chicago","point_of_interest, establishment",0.68
+3983 S Lake Park Ave,Lake Parc Place,"3983 south lake park avenue, chicago","point_of_interest, establishment",0.72
+3986 W Barry Ave,ASPIRA Early College High School,"3986 west barry avenue, chicago","secondary_school, school, university, point_of_interest, establishment",0.7
+3rd St,,,,
+40 E 40th St,Cornerstone Acupuncture - Ning Ma,"30 east 40th street, new york","point_of_interest, health, store, establishment",0.64
+400 E Monroe St,Coast Guard Auxiliary Chicago,"400 east monroe street, chicago","point_of_interest, establishment",0.69
+400 S State St,,,,
+400 W 76th St,Heartland Alliance,"400 west 76th street, chicago","point_of_interest, establishment",0.67
+4008 W Madison St,Garfield Park Community Plaza,"4008 west madison street, chicago","park, point_of_interest, establishment",0.7
+401 N Armour St,Ignite Glass Studios,"401 north armour street, chicago","art_gallery, point_of_interest, establishment",0.68
+401 N Michigan Ave,Radio Disney 1300AM.,"401 michigan avenue, chicago","point_of_interest, establishment",0.71
+401 S State St,Mónica Sarmiento Castillo,"401 south state street, chicago","point_of_interest, establishment",0.67
+401 W 123rd St,,,,
+401 W 69th St,,,,
+4015 N Ashland Ave,Dr. Caroline Hoke,"4015 north ashland avenue, chicago","doctor, point_of_interest, health, establishment",0.71
+4015 W Carroll Ave,Federal Uniform LLC,"4015 west carroll avenue, chicago","clothing_store, point_of_interest, store, establishment",0.72
+402 N Saint Louis Ave,Breakthrough Urban Ministries,"402 north saint louis avenue, chicago","point_of_interest, establishment",0.68
+4020 W 63rd St,"West Lawn Branch, Chicago Public Library","4020 west 63rd street, chicago","library, point_of_interest, establishment",0.68
+4020 W Division St,It Takes A Village Early Learning Center,"4020 west division street, chicago","point_of_interest, establishment",0.71
+4024 N Cicero Ave,Walgreens,"4040 north cicero avenue, chicago","drugstore, convenience_store, clothing_store, food, health, store, point_of_interest, establishment",0.68
+4024 N Elston Ave,"Independence Branch, Chicago Public Library","4024 north elston avenue, chicago","library, point_of_interest, establishment",0.7
+4025 S Western Blvd,Peco Sews,"4025 south western boulevard, chicago","store, point_of_interest, establishment",0.7
+4034 S State St,Hansberry Square of Legends South,"4034 south state street, chicago","real_estate_agency, point_of_interest, establishment",0.68
+4034 W 56th St,Sor Juana Elementary School,"4034 west 56th street, chicago","primary_school, point_of_interest, school, establishment",0.68
+4041 N Milwaukee Ave,The Gift Theatre,"4041 north milwaukee avenue, chicago","point_of_interest, establishment",0.72
+4041 W Roosevelt Rd,Sankofa House,"4041 west roosevelt road, chicago","real_estate_agency, health, point_of_interest, establishment",0.74
+4044 N Lincoln Ave,The UPS Store,"4044 north lincoln avenue, chicago","finance, store, point_of_interest, establishment",0.71
+4046 N Leavitt St,Steve & Kate's Camp - Chicago North Center,"4046 north leavitt street, chicago","point_of_interest, establishment",0.69
+4046 W Armitage Ave,Segundo Ruiz Belvis Cultural,"4046 west armitage avenue, chicago","point_of_interest, establishment",0.73
+405 E 35th St,NYC Parking Nyulmc G Garage Corp.,"400 east 35th street, new york","parking, point_of_interest, establishment",0.65
+405 W Superior St,AKPD Message & Media,"405 west superior street, chicago","point_of_interest, establishment",0.7
+406 Linden Ave,Agape food pantry,"linden avenue, dayton","point_of_interest, establishment",0.62
+406 W Winneconna Pkwy,Lagoon,"406 west winneconna parkway, chicago","point_of_interest, establishment",0.74
+4085 S Archer Ave,ParkChicago #281615,"4085 south archer avenue, chicago","point_of_interest, establishment",0.7
+410 S Michigan Ave,Jazz Institute of Chicago,"410 michigan avenue, chicago","point_of_interest, establishment",0.71
+410 W Chicago Ave,,,,
+4100 N Damen Ave,Northcenter Town Square,"4100 north damen avenue, chicago","point_of_interest, establishment",0.69
+4100 N Long Ave,Portage Park,"4100 north long avenue, chicago","park, point_of_interest, establishment",0.69
+4100 S Lake Shore Dr,,,,
+4100 W Irving Park Rd,Gotta B Crepes Portage Park Farmers Market,"4100 irving park road, chicago","point_of_interest, establishment",0.75
+4101 W 76th St,Manufacturing Technology and Engineering Center (MTEC),"4101 west 76th street, chicago","university, point_of_interest, establishment",0.68
+4101 W 79th St,"Scottsdale Branch, Chicago Public Library","4101 west 79th street, chicago","library, point_of_interest, establishment",0.68
+4108 S King Dr,Urban Broadcast Media,"4108 south king drive, chicago","point_of_interest, establishment",0.68
+4111 W Armitage Ave,"En Las Tablas Performing Arts, NFP","4111 west armitage avenue, chicago","point_of_interest, establishment",0.73
+4117 W North Ave,Pic'z Digital Photo,"4117 west north avenue, chicago","point_of_interest, establishment",0.7
+412 W Chicago Ave,Chicago Tutoring Connection,"410 west chicago avenue, chicago","point_of_interest, establishment",0.68
+4127 W Hirsch St,Alfred Nobel Elementary School,"4127 west hirsch street, chicago","primary_school, school, point_of_interest, establishment",0.69
+4131 S State St,Omni Ecosystems,"4131 south state street, chicago","general_contractor, point_of_interest, establishment",0.68
+4133 W Madison St,Habilitative Systems Inc,"4133 west madison street, chicago","health, point_of_interest, establishment",0.7
+4134 W Hirsch St,Kedvale Park,"4134 west hirsch street, chicago","park, tourist_attraction, point_of_interest, establishment",0.69
+4136 S California Ave,Thomas Kelly College Preparatory High School,"4136 south california avenue, chicago","secondary_school, school, point_of_interest, establishment",0.73
+4140 W Hirsch St,Kedvale Park,"4134 west hirsch street, chicago","park, tourist_attraction, point_of_interest, establishment",0.67
+4145 W Armitage Ave,The Place for Children with Autism - Hermosa,"4145 west armitage avenue, chicago","health, point_of_interest, establishment",0.73
+415 E 79th St,,,,
+415 N Laramie Ave,By The Hand Club For Kids,"415 north laramie avenue, chicago","point_of_interest, establishment",0.7
+4150 S King Dr,Centers For New Horizons Inc,"4150 south king drive, chicago","point_of_interest, establishment",0.68
+4155 S Rockwell St,New Life Community Church Brighton Park,"4155 south rockwell street, chicago","church, place_of_worship, point_of_interest, establishment",0.7
+416 N Laramie Ave,Moving Everest Charter School,"416 north laramie avenue, chicago","school, point_of_interest, establishment",0.7
+4196 S State St,Metcalfe (Ralph) Park,"4134 south state street, chicago","park, point_of_interest, establishment",0.62
+42 W Madison St,Chicago Public Schools,"42 west madison street, chicago","point_of_interest, establishment",0.69
+420 W 111th St,,,,
+4200 N Oak Park Ave,Chicago-Read Mental Health Center,"4200 north oak park avenue, chicago","health, point_of_interest, establishment",0.72
+4217 W 18th St,Shell,"4401 west 18th street, houston","gas_station, atm, finance, convenience_store, restaurant, food, point_of_interest, store, establishment",0.62
+4220 N Richmond St,Newton Bateman Elementary School,"4220 north richmond street, chicago","primary_school, school, point_of_interest, establishment",0.7
+4222 S Archer Ave,El Campestre,"4226 south archer avenue, chicago","meal_delivery, restaurant, point_of_interest, food, establishment",0.68
+4222 W Foster Ave,Gompers Park Pool (Outdoor),"4222 west foster avenue, chicago","point_of_interest, establishment",0.71
+4225 S Lake Park Ave,Jackie Robinson Elementary School,"4225 south lake park avenue, chicago","primary_school, school, point_of_interest, establishment",0.72
+423 N Laramie Ave,Flowers for dreams market,"423 north laramie avenue, chicago","point_of_interest, establishment",0.7
+4231 S Talman Ave,Alcohólicos anonimos,"4309 south talman avenue, chicago","point_of_interest, establishment",0.65
+4233 W 65th St,Chicago Karate Academy,"4233 west 65th street, chicago","health, point_of_interest, establishment",0.68
+4246 N Hermitage Ave,Zatterberg (Helen) Park,"4246 north hermitage avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.72
+4247 W 15th St,Charles Hughes Elementary School,"4247 west 15th street, chicago","primary_school, secondary_school, school, point_of_interest, establishment",0.68
+4247 W 31st St,,,,
+425 E McFetridge Dr,ATM,"425 east mcfetridge drive, chicago","atm, finance, point_of_interest, establishment",0.73
+4250 N Saint Louis Ave,Patrick Henry Elementary School,"4250 north saint louis avenue, chicago","primary_school, point_of_interest, school, establishment",0.69
+4255 N Knox Ave,Fort Knox Studios,"4255 north knox avenue, chicago","point_of_interest, establishment",0.69
+430 E 162nd St,NevaeHair,"430 east 162nd street, south holland","store, point_of_interest, establishment",0.72
+4300 N California Ave,Alliance of Filipinos for Immigrant Rights and Empowerment,"4300 north california avenue, chicago","point_of_interest, establishment",0.73
+4300 W North Ave,Square 1 Precision Lighting,"4300 west north avenue, stone park","home_goods_store, store, point_of_interest, establishment",0.73
+4301 S King Dr,,,,
+431 N Troy St,Morton School of Excellence,"431 north troy street, chicago","primary_school, school, point_of_interest, establishment",0.66
+4314 S Archer Ave,"Brighton Park Branch, Chicago Public Library","4314 south archer avenue, chicago","library, point_of_interest, establishment",0.7
+4314 S Cottage Grove Ave,Dr. Martin Luther King Center Service Center,"4314 south cottage grove avenue, chicago","point_of_interest, establishment",0.75
+4320 W 15th St,Gymnasium,"4320 west 15th street, chicago","point_of_interest, establishment",0.68
+4320 W 5th Ave,,,,
+4332 N Paulina St,Ravenswood Elementary School,"4332 north paulina street, chicago","primary_school, school, point_of_interest, establishment",0.69
+4334 S Pulaski Rd,La Michoacana,"4336 south pulaski road, chicago","store, food, point_of_interest, establishment",0.68
+4338 W Wabansia Ave,North-Grand High School,"4338 west wabansia avenue, chicago","secondary_school, school, point_of_interest, establishment",0.73
+434-440 East 71st Street,LAZ Parking,"426-438 east 71st street, new york","parking, point_of_interest, establishment",0.61
+4343 W Wrightwood Ave,Kelvyn Park High School,"4343 west wrightwood avenue, chicago","secondary_school, point_of_interest, school, establishment",0.74
+4345 S Calumet Ave,,,,
+4347 S Calumet Ave,Hadiya Pendelton Park,"4345 south calumet avenue, chicago","park, point_of_interest, establishment",0.68
+4347 W 54th St,Strohacker (Howard) Park,"4347 west 54th street, chicago","park, tourist_attraction, point_of_interest, establishment",0.68
+4349 W Washington Blvd,Bethel Pace Center Apartments,"4349 west washington boulevard, chicago","real_estate_agency, point_of_interest, establishment",0.73
+4350 W 79th St,Tennis Court,"4350 west 79th street, chicago","point_of_interest, establishment",0.68
+4355 N Linder Ave,Vaughn Occupational High School,"4355 north linder avenue, chicago","secondary_school, school, point_of_interest, establishment",0.7
+438 W 120th St,Poinciana,"434 west 120th street, new york","point_of_interest, establishment",0.66
+439 W 103rd St,New Macedonia Baptist Church,"432 west 103rd street, chicago","church, place_of_worship, point_of_interest, establishment",0.65
+44 W 15th St,Complete Tile Collection,"42 west 15th street, new york","home_goods_store, point_of_interest, store, establishment",0.64
+440 Dodge Ave,District 65 Kindergarten Child,"440 dodge avenue, evanston","point_of_interest, establishment",0.72
+4400 N Lake Shore Dr,,,,
+4400 W Lawrence Ave,"Mayfair Branch, Chicago Public Library","4400 west lawrence avenue, chicago","library, point_of_interest, establishment",0.73
+4408 W Madison St,Chicago Born Losers Motorcycle,"4420 west madison street, chicago","point_of_interest, establishment",0.68
+4409 W Wilcox St,Helen M. Hefferan Public School,"4409 west wilcox street, chicago","primary_school, school, point_of_interest, establishment",0.69
+4411 W Chicago Ave,Chicago Joint Public Safety Training Campus,"4433 west chicago avenue, chicago","point_of_interest, establishment",0.67
+4414 S Evans Ave,Carter G. Woodson School,"4414 south evans avenue, chicago","primary_school, point_of_interest, school, establishment",0.69
+4420 S Sacramento Ave,Gunsaulus Scholastic Academy,"4420 south sacramento avenue, chicago","primary_school, school, point_of_interest, establishment",0.73
+4424 S Cottage Grove Ave,4400 Grove Apartments,"4424 south cottage grove avenue, chicago","real_estate_agency, point_of_interest, establishment",0.75
+4429 N Clifton Ave,Woodlawn Community Dev Corporation,"4429 north clifton avenue, chicago","point_of_interest, establishment",0.71
+4430 S Marshfield Ave,Davis (Dr. Nathan) Square Park,"4430 south marshfield avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.73
+4431 W Augusta Blvd,Augusta Park,"4433 west augusta boulevard, chicago","park, tourist_attraction, point_of_interest, establishment",0.68
+4432 N Kedzie Ave,Anchor Baby Vintage and upcycled & Urban Markets Collective,"4432 north kedzie avenue, chicago","clothing_store, store, point_of_interest, establishment",0.7
+4433 S St Lawrence Ave,Armstrong (Lillian Hardin) Park,"4433 south saint lawrence avenue, chicago","park, point_of_interest, establishment",0.71
+4433 W Augusta Blvd,Augusta Park,"4433 west augusta boulevard, chicago","park, tourist_attraction, point_of_interest, establishment",0.71
+4433 W Chicago Ave,Chicago Joint Public Safety Training Campus,"4433 west chicago avenue, chicago","point_of_interest, establishment",0.72
+4434 S Lake Park Ave,Technique Gems,"4434 south lake park avenue, chicago","point_of_interest, establishment",0.72
+4436 S Union Ave,Alexander Graham Elementary School,"4436 south union avenue, chicago","primary_school, school, point_of_interest, establishment",0.69
+4437 N Magnolia Ave,Broncho Billy Playlot Park (12 & Under),"4437 north magnolia avenue, chicago","park, point_of_interest, establishment",0.72
+4438 W Wrightwood Ave,Kelvyn (William) Park,"4438 west wrightwood avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.74
+444 W Chicago Ave,Chicago Lights Urban Farm,"444 west chicago avenue, chicago","park, point_of_interest, establishment",0.71
+4444 S Evans Ave,Carter G Woodson Middle School,"4444 south evans avenue, chicago","point_of_interest, school, establishment",0.69
+4445 S Drexel Blvd,Dr. Martin Luther King Jr. College Preparatory High School,"4445 south drexel boulevard, chicago","secondary_school, point_of_interest, school, establishment",0.69
+4445 S King Dr,The Black Women's Expo,"4445 south king drive, chicago","point_of_interest, establishment",0.68
+4448 S State St,Legends South,"4448 south state street, chicago","point_of_interest, establishment",0.68
+445 N Sacramento Blvd,Chicago Center For Green Technology,"445 north sacramento boulevard, chicago","local_government_office, point_of_interest, establishment",0.71
+4452 S Archer Ave,we provide premium level asphalt paving,"4452 south archer avenue, chicago","point_of_interest, establishment",0.7
+4455 N Lincoln Ave,"Sulzer Regional Library, Chicago Public Library","4455 north lincoln avenue, chicago","library, point_of_interest, establishment",0.71
+4459 S Marshfield Ave,EVmatch Charging Station,"4459 south marshfield avenue, chicago","point_of_interest, establishment",0.73
+4477 S Archer Ave,Brighton Park Neighborhood Council,"4477 south archer avenue, chicago","point_of_interest, establishment",0.7
+450 E Benton Pl,Lakeshore East Park,"450 east benton place, chicago","park, tourist_attraction, point_of_interest, establishment",0.7
+4500 N Virginia Ave,Sunken Gardens Park,"4500 north virginia avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.72
+4501 N Clarendon Ave,Kuumba Lynx,"4501 north clarendon avenue, chicago","point_of_interest, establishment",0.72
+4506 W Lawrence Ave,Clark Street Sports,"4506 west lawrence avenue, chicago","point_of_interest, clothing_store, store, establishment",0.73
+4510 S Michigan Ave,Chicago Urban League,"4510 south michigan avenue, chicago","point_of_interest, establishment",0.72
+4511 S Evans Ave,Carter G Woodson Child Parent,"4511 south evans avenue, chicago","point_of_interest, school, establishment",0.69
+4519 N Lincoln Ave,Lincoln Square Farmers Market,"4513 north lincoln avenue, chicago","point_of_interest, establishment",0.68
+452 East 61st Street,a,"420e east 61st street, new york","parking, point_of_interest, establishment",0.64
+4521 S Ashland Ave,Immaculate Heart of Mary Catholic Church,"4517 south ashland avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.68
+4533 W Carmen Ave,North Mayfair Playlot Park,"4533 west carmen avenue, chicago","park, point_of_interest, establishment",0.71
+4540 W Washington Blvd,Fathers Who Care,"4540 west washington boulevard, chicago","point_of_interest, establishment",0.73
+4541 S Wood St,Dugan Alternative School,"4541 south wood street, chicago","secondary_school, school, point_of_interest, establishment",0.67
+4542 S Greenwood Ave,Gwendolyn Brooks Park,"4542 south greenwood avenue, chicago","park, point_of_interest, establishment",0.72
+4543 S Princeton Ave,Charles Jenkins,"4543 south princeton avenue, chicago","point_of_interest, establishment",0.72
+4550 W Sunnyside Ave,Mayfair Playground,"4550 west sunnyside avenue, chicago","point_of_interest, establishment",0.73
+459 W 79th St,CYC & Associates Inc,"459 west 79th street, chicago","point_of_interest, establishment",0.67
+4600 N Lake Shore Dr,,,,
+4600 N Lawndale Ave,Baseball Junior/Softball,"4650 north lawndale avenue, chicago","point_of_interest, establishment",0.69
+4600 S Hermitage Ave,William H. Seward Communication Arts Academy Elementary School,"4600 south hermitage avenue, chicago","secondary_school, primary_school, point_of_interest, school, establishment",0.72
+4600 S Wood St,Gerardsaveslives,"4600 south wood street, chicago","health, point_of_interest, establishment",0.67
+4600 W Palmer St,Bikes N' Roses,"4600 west palmer street #100, chicago","bicycle_store, store, point_of_interest, establishment",0.65
+4604 N Manor Ave,Ravenswood Manor Park,"4626 north manor avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.64
+4608 S Greenwood Ave,Kenwood UCC Soup Kitchen - Food Distribution Center,"4608 south greenwood avenue, chicago","food, point_of_interest, establishment",0.72
+461 E 111th St,Weathersby Wonder World,"461 east 111th street, chicago","point_of_interest, establishment",0.68
+4615 W Jackson Blvd,Football/Soccer Combo Field,"4615 jackson boulevard, chicago","point_of_interest, establishment",0.7
+4619 S Wolcott Ave,Agustin Lara Academy,"4619 south wolcott avenue, chicago","primary_school, point_of_interest, school, establishment",0.71
+4624 W Madison St,West Side Learning Center,"4624 west madison street, chicago","university, point_of_interest, establishment",0.7
+4626 N Manor Ave,Ravenswood Manor Park,"4626 north manor avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.69
+4628 W Washington Blvd,El Palais Bu-Sché,"4628 west washington boulevard, chicago","point_of_interest, establishment",0.73
+4630 N Milwaukee Ave,,,,
+4637 W 83rd St,,,,
+4638 N Melvina Ave,Fitness Center,"4638 north melvina avenue, chicago","gym, health, point_of_interest, establishment",0.71
+4640 S Lamon Ave,Hearst Elementary School,"4640 south lamon avenue, chicago","primary_school, school, point_of_interest, establishment",0.69
+4650 N Lawndale Ave,Jensen (Daniel) Park,"4650 north lawndale avenue, chicago","park, point_of_interest, establishment",0.72
+4650 N Pulaski Rd,Chicago Police Department,"4650 north pulaski road, chicago","police, point_of_interest, establishment",0.71
+4655 S Dearborn St,Colman Zenos School,"4655 south dearborn street, chicago","primary_school, school, point_of_interest, establishment",0.7
+4659 S Cottage Grove Ave,Newco Inc,"4659 south cottage grove avenue, chicago","point_of_interest, establishment",0.75
+4674 N Virginia Ave,Jacob Playlot Park,"4674 north virginia avenue, chicago","park, point_of_interest, establishment",0.72
+47 E 47th St,,,,
+47 W 47th St,DC Engineering products PVT.LTD,"west 47th street, new york","point_of_interest, establishment",0.63
+4701 N Ashland Ave,Beer and Burpees,"4701 north ashland avenue, chicago","point_of_interest, establishment",0.71
+4701 N Pulaski Rd,Spin Cycle,"4701 north pulaski road, chicago","laundry, point_of_interest, establishment",0.71
+4701 N Winthrop Ave,Christopher House,"4701 north winthrop avenue, chicago","school, point_of_interest, establishment",0.72
+4701 S King Dr,,,,
+4707 W Marquette Rd,Mariano Azuela Elementary School,"4707 west marquette road, chicago","primary_school, point_of_interest, school, establishment",0.74
+4723 W Grand Ave,CARSTAR Grand Avenue,"4723 west grand avenue, chicago","car_repair, point_of_interest, establishment",0.7
+4730 N Sheridan Rd,CircEsteem,"4730 north sheridan road, chicago","point_of_interest, establishment",0.72
+4747 N Sawyer Ave,Office of 33rd Ward Alderman Rossana Rodriguez-Sanchez,"4747 north sawyer avenue, chicago","local_government_office, point_of_interest, establishment",0.7
+4747 S Bishop St,Hamline Elementary School,"4747 south bishop street, chicago","primary_school, point_of_interest, school, establishment",0.68
+4747 S Marshfield Ave,Cesar Chavez Multicultural Academic Center,"4747 south marshfield avenue, chicago","primary_school, point_of_interest, school, establishment",0.73
+4747 S Winchester Ave,James Hedges Fine & Performing Arts School,"4747 south winchester avenue, chicago","primary_school, school, point_of_interest, establishment",0.73
+4749 N Kedzie Ave,AL-IHSAN Foundation of America,"4759 north kedzie avenue, chicago","point_of_interest, establishment",0.68
+4755 N Sheridan Rd,SAVE A DREAM FOUNDATION,"4757 north sheridan road, chicago","point_of_interest, establishment",0.69
+4763 N Western Ave,,,,
+4800 S Campbell Ave,Starbucks,"4801 south campbell avenue, tucson","cafe, restaurant, food, point_of_interest, store, establishment",0.68
+4800 S Western Ave,Word of God Baptist Church,"4816 south western avenue, los angeles","church, place_of_worship, point_of_interest, establishment",0.69
+4801 S Michigan Ave,"Hall Branch, Chicago Public Library","4801 south michigan avenue, chicago","library, point_of_interest, establishment",0.72
+4805 W Madison St,Metro by T-Mobile,"4801 west madison street, chicago","store, point_of_interest, establishment",0.68
+4815 S Karlov Ave,Edwards Elementary School,"4815 south karlov avenue, chicago","primary_school, point_of_interest, school, establishment",0.7
+4820 W Walton St,Ronald E McNair Elementary School,"4820 west walton street, chicago","primary_school, school, point_of_interest, establishment",0.69
+4821 S Hermitage Ave,St Joseph Catholic Church,"4821 south hermitage avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.72
+4821 W Chicago Ave,Hope Excel Reaching the World Academy,"4821 west chicago avenue, chicago","primary_school, school, point_of_interest, establishment",0.72
+4822 N Long Ave,Jefferson (Thomas) Memorial Park,"4822 north long avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.69
+4830 S Western Ave,Chicago Park District,"4830 south western avenue, chicago","park, local_government_office, point_of_interest, establishment",0.71
+4833 N Francisco Ave,Lawrence Hall,"4833 north francisco avenue, chicago","point_of_interest, establishment",0.72
+4835 N Sheridan Rd,Pedersen-McCormick Boys & Girls Club,"4835 north sheridan road, chicago","point_of_interest, establishment",0.72
+4835 W Chicago Ave,Renaissance Living Room,"4835 west chicago avenue, chicago","point_of_interest, establishment",0.72
+4837 W Erie St,,,,
+4856 W Chicago Ave,"West Chicago Avenue Branch, Chicago Public Library","4856 west chicago avenue, chicago","library, point_of_interest, establishment",0.72
+4859 S Wabash Ave,Grand Boulevard Federation,"4859 south wabash avenue, chicago","point_of_interest, establishment",0.7
+49 E 95th St,Abbott Pool (Outdoor),"49 east 95th street, chicago","point_of_interest, establishment",0.66
+49 Oakbrook Ctr,Banana Republic,"49 oakbrook center, oak brook","clothing_store, store, point_of_interest, establishment",0.79
+49 W 111th Pl,Christ Temple Cathedral Church,"62 west 111th place, chicago","church, place_of_worship, point_of_interest, establishment",0.62
+4901 N Sheridan Rd,Buttercup Park,"4901 north sheridan road, chicago","park, tourist_attraction, parking, point_of_interest, establishment",0.72
+4901 S Kilbourn Ave,Fitness Center,"4901 south kilbourn avenue, chicago","health, point_of_interest, establishment",0.72
+4904 S Lake Park Ave,,,,
+4909 W Division St,Dr. Catalino M Bautista,"4909 west division street, chicago","doctor, health, point_of_interest, establishment",0.71
+4910 W Addison St,Ikaar Corp,"4856 west addison street, chicago","moving_company, point_of_interest, establishment",0.62
+4919 N Winthrop Ave,Winthrop Harmony Arts Garden,"4919 north winthrop avenue, chicago","park, point_of_interest, establishment",0.72
+4921 N Marine Dr,Margate Fieldhouse — park fitness center,"4921 north marine drive, chicago","gym, health, point_of_interest, establishment",0.69
+4922 S Throop St,,,,
+4929 N Sawyer Ave,Edison Regional Gifted Center,"4929 north sawyer avenue, chicago","primary_school, point_of_interest, school, establishment",0.7
+4929 S Campbell Ave,Sunny Daze Café,"4980 south campbell avenue, tucson","cafe, store, restaurant, food, point_of_interest, establishment",0.66
+4930 S Cottage Grove Ave,Hales Franciscan High School,"4930 south cottage grove avenue, chicago","secondary_school, school, point_of_interest, establishment",0.75
+4934 S Wabash Ave,DuSable High School Campus,"4934 south wabash avenue, chicago","secondary_school, school, point_of_interest, establishment",0.7
+4946 S Paulina St,Chicago Public Schools,"4946 south paulina street, chicago","point_of_interest, establishment",0.69
+4949 S Archer Ave,Curie (Marie) Park,"4949 south archer avenue, chicago","park, point_of_interest, establishment",0.7
+4950 W Thomas St,Beth Anne Supportive Living,"4950 west thomas street, chicago","health, point_of_interest, establishment",0.69
+4956 N Sheridan Rd,Latin School's 3rd Space,"4956 north sheridan road, chicago","point_of_interest, establishment",0.72
+4959 S Archer Ave,Marie Sklodowska Curie Metropolitan High School,"4959 south archer avenue, chicago","secondary_school, point_of_interest, school, establishment",0.7
+4th Ward Alderman's Office,,,,
+5 Peas In A Pod ,5 Peas In A Pod Learning Academy,"5635 west north avenue, chicago","point_of_interest, establishment",0.7
+5 S Wabash Ave,Valencia Diamond Inc,"5 south wabash avenue, chicago","jewelry_store, finance, point_of_interest, store, establishment",0.68
+50 W Washington St,Illinois Workers' Compensation Commission,"50 west washington street, chicago","point_of_interest, establishment",0.71
+500 N Lake Shore Dr,LAZ Parking,"500 north lake shore drive, chicago","parking, point_of_interest, establishment",0.72
+500 N Laramie Ave,Chicago First Church of the Nazarene (Austin Campus),"500 north laramie avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.7
+500 S Central Ave,Columbus (Christopher) Park,"500 south central avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.7
+5000 S Indiana Ave,Respect the game,"5000 south indiana avenue, chicago","point_of_interest, establishment",0.71
+5001 S Cottage Grove Ave,,,,
+5009 S Laflin St,,,,
+501 E 90th Pl,Basketball camp,"comets field, 501 east 90th place, chicago","point_of_interest, establishment",0.77
+501 N Central Ave,sistas of the hood,"501 north central avenue, chicago","point_of_interest, establishment",0.7
+501 W 35th St,CPS Bridgeport Administrative Office,"501 west 35th street, chicago","point_of_interest, establishment",0.67
+501 W 64th St,City Parking,"457 west 64th street, new york","parking, point_of_interest, establishment",0.62
+501 W Wisconsin St,Bauler (Mathias) Park,"501 west wisconsin street, chicago","park, tourist_attraction, point_of_interest, establishment",0.71
+5010 W 50th St,Basketball Court,"5010 west 50th street, chicago","point_of_interest, establishment",0.68
+5013 S Hermitage Ave,The Port Ministries,"5013 south hermitage avenue, chicago","place_of_worship, point_of_interest, establishment",0.72
+5015 S Blackstone Ave,Kenwood Academy High School,"5015 south blackstone avenue, chicago","secondary_school, school, point_of_interest, establishment",0.73
+5020 S Cornell Ave,Hyde Park Art Center,"5020 south cornell avenue, chicago","tourist_attraction, museum, art_gallery, point_of_interest, establishment",0.71
+5022 W Madison St,Peace Corner Youth Center,"5022 west madison street, chicago","point_of_interest, establishment",0.7
+5024 S Wolcott Ave,Richard J Daley Elementary Academy,"5024 south wolcott avenue, chicago","primary_school, school, point_of_interest, establishment",0.71
+5025 S Saint Louis Ave,,,,
+5039 N Kimball Ave,Frederick Von Steuben Metropolitan Science Center,"5039 north kimball avenue, chicago","secondary_school, point_of_interest, school, establishment",0.71
+5042 S Artesian Ave,Christopher Elementary School,"5042 south artesian avenue, chicago","primary_school, school, point_of_interest, establishment",0.72
+5044 W Harrison St,Austin Coming Together,"5049 west harrison street, chicago","point_of_interest, establishment",0.68
+5049 W Harrison St,Austin Coming Together,"5049 west harrison street, chicago","point_of_interest, establishment",0.71
+5050 S Homan Ave,"Jovita Idar Elementary, an Acero School","5050 south homan avenue, chicago","primary_school, school, point_of_interest, establishment",0.69
+5051 N Kenneth Ave,John M Palmer Elementary School,"5051 north kenneth avenue, chicago","primary_school, point_of_interest, school, establishment",0.71
+5055 S Archer Ave,"Archer Heights Branch, Chicago Public Library","5055 south archer avenue, chicago","library, point_of_interest, establishment",0.7
+5055 S Prairie Ave,BMA Resources,"5055 south prairie avenue, chicago","point_of_interest, establishment",0.71
+507 W 111th St,Boehm Business Services,"507 west 111th street #2, new york","point_of_interest, establishment",0.66
+5085 W Adams St,Harvest Garden,"5085 west adams street, chicago","park, point_of_interest, establishment",0.69
+5085 West Adams Street,Harvest Garden,"5085 west adams street, chicago","park, point_of_interest, establishment",0.69
+5088 W Jackson Blvd,Chapel Of St Ignatius Loyola,"5088 west jackson boulevard, chicago","point_of_interest, establishment",0.71
+5090 W Harrison St,Windy City Word,"5090 west harrison street, chicago","point_of_interest, establishment",0.71
+5100 N Francisco Ave,River Park,"5100 north francisco avenue, chicago","park, point_of_interest, establishment",0.72
+5100 N Leavitt St,Winnemac Park Natural Area,"5100 north leavitt street, chicago","park, point_of_interest, establishment",0.69
+5100 N Ridgeway Ave,Albany Park Theater Project,"5100 north ridgeway avenue, chicago","point_of_interest, establishment",0.72
+5100 W Diversey Ave,Vida Exitosa,"5100 west diversey avenue, chicago","point_of_interest, establishment",0.73
+5100 W Harrison St,Momentum Coffee Austin,"5100 west harrison street, chicago","cafe, store, food, point_of_interest, establishment",0.71
+5101 N Kimball Ave,Albany Park Community Center,"5101 north kimball avenue, chicago","health, point_of_interest, establishment",0.71
+5101 N Leavitt St,Jorndt Field,"5101 north leavitt street, chicago","point_of_interest, establishment",0.69
+5101 W Harrison St,Michele Clark Magnet High School,"5101 west harrison street, chicago","secondary_school, school, point_of_interest, establishment",0.71
+5108 W Belmont Ave,"Portage-Cragin Branch, Chicago Public Library","5108 west belmont avenue, chicago","library, point_of_interest, establishment",0.72
+5110 N Broadway St,Vietnamese Association of Illinois,"5110 north broadway, chicago","point_of_interest, establishment",0.72
+5110 N Damen Ave,"Mark Merten, PsyD","amundsen high school, 5110 north damen avenue, chicago","health, point_of_interest, establishment",0.81
+5110 N Western Ave,Crystal Clear Window Washing,"5114 north western avenue, chicago","point_of_interest, establishment",0.68
+5110 W Diversey Ave,Training Center,"5110 west diversey avenue, chicago","gym, point_of_interest, health, establishment",0.73
+5114 S Elizabeth St,Institute for Nonviolence Chicago- Back of the Yards,"5114 south elizabeth street, chicago","point_of_interest, establishment",0.71
+5117 S Racine Ave,Fc truck diesel,"5121 south racine avenue, chicago","car_repair, point_of_interest, establishment",0.68
+512 S Lavergne Ave,George Leland Elementary School,"512 south lavergne avenue, chicago","primary_school, school, point_of_interest, establishment",0.71
+5120 N Broadway St,South-East Asia Center,"5120 north broadway, chicago","point_of_interest, establishment",0.72
+5120 W 44th St,Tasmania restaurant,"west 44th street, new york","restaurant, food, point_of_interest, establishment",0.63
+513 W 72nd St,Hamilton Park Pool (Outdoor),"513 west 72nd street, chicago","point_of_interest, establishment",0.67
+5134 S Lotus Ave,Mark Twain Elementary School,"5134 south lotus avenue, chicago","primary_school, school, point_of_interest, establishment",0.69
+5136 S Laflin St,,,,
+515 S Washtenaw Ave,Altgeld Park Public Pool (Outdoor),"515 south washtenaw avenue, chicago","point_of_interest, establishment",0.71
+5151 W Madison St,Kingdom Community Inc. HUD Housing Counseling Agency #81494),"5151 west madison street, chicago","point_of_interest, establishment",0.7
+520 N Lake Shore Dr,City Veterinarians,"600 north lake shore drive, chicago","veterinary_care, point_of_interest, establishment",0.67
+520 S Laramie Ave,A & G Deli,"520 south laramie avenue, chicago","meal_takeaway, restaurant, store, food, point_of_interest, establishment",0.7
+520 S Maple Ave,Wound Care Center At RUSH Oak Park Hospital,"520 south maple avenue, oak park","health, point_of_interest, establishment",0.69
+5200 N Lake Shore Dr,,,,
+5200 S Hyde Park Blvd,Jewish Enrichment Center,"5200 south hyde park boulevard, chicago","point_of_interest, establishment",0.71
+5203 S Lowe Ave,Lowe (Samuel) Park,"5203 south lowe avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.69
+521 E 35th St,NYU Langone Parking (Under Bridge),"445 east 35th street, new york","parking, point_of_interest, establishment",0.62
+5210 W 64th St,Lawler (Michael) Park,"5210 west 64th street, chicago","park, tourist_attraction, point_of_interest, establishment",0.68
+5213 W Potomac Ave,New Kingdom Church,"5213 west potomac avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.72
+5215 S Woodlawn Ave,Elm Park,"5215 south woodlawn avenue, chicago","park, point_of_interest, establishment",0.72
+5217 W Diversey Ave,El Artesanal,"5217 west diversey avenue, chicago","cafe, store, food, point_of_interest, establishment",0.73
+5222 S Halsted St,Liberty Temple Church of God,"5230 south halsted street, chicago","church, place_of_worship, point_of_interest, establishment",0.64
+5225 S Talman Ave,Florence Nightingale Elementary School,"5225 south talman avenue, chicago","primary_school, school, point_of_interest, establishment",0.7
+5230 S Halsted St,Liberty Temple Church of God,"5230 south halsted street, chicago","church, place_of_worship, point_of_interest, establishment",0.69
+5230 W Argyle St,Roberts (David) Square Park,"5230 west argyle street, chicago","park, tourist_attraction, point_of_interest, establishment",0.69
+5233 W Diversey Ave,Northwest Center,"5233 west diversey avenue, chicago","point_of_interest, establishment",0.73
+5234 S Blackstone Ave,Piano Fingers/ piano lessons in person and virtual,"5234 south blackstone avenue, chicago","point_of_interest, school, store, establishment",0.73
+5235 S Harper Ct,Harper Court,"5235 south harper court, chicago","shopping_mall, point_of_interest, establishment",0.69
+5235 W Belden St,Selena school,"5235 west belden avenue, chicago","primary_school, point_of_interest, school, establishment",0.71
+5239 W Madison St,Creative Mindz Youth Development Inc,"5239 west madison street, chicago","point_of_interest, establishment",0.7
+5247 S Spaulding Ave,Sawyer Elementary School,"5247 south spaulding avenue, chicago","primary_school, school, point_of_interest, establishment",0.72
+5248 S Sawyer Ave,,,,
+5248 S Spaulding Ave,Sawyer Elementary School,"5247 south spaulding avenue, chicago","primary_school, point_of_interest, school, establishment",0.7
+525 W Monroe St,MERK Capital Corporation,"525 west monroe street, chicago","finance, point_of_interest, establishment",0.69
+5250 N Christiana Ave,North Park Cooperative Preschool,"5250 north christiana avenue, chicago","school, point_of_interest, establishment",0.73
+5250 S Rockwell St,NIGHTINGALE SCHOOL,"5250 south rockwell street, chicago","school, point_of_interest, establishment",0.7
+5254 S Ashland Ave,Christ Temple Community of Christ Food Pantry - Food Distribution Center,"5252 south ashland avenue, chicago","food, point_of_interest, establishment",0.68
+5255 N Ashland Ave,First Evangelical Free Church of Chicago,"5255 north ashland avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.71
+5257 W Chicago Ave,The Original Royal Chicken,"5254 west chicago avenue, chicago","restaurant, food, point_of_interest, establishment",0.69
+5259 W Chicago Ave,The Original Royal Chicken,"5254 west chicago avenue, chicago","restaurant, food, point_of_interest, establishment",0.69
+530 S State St,Michigan Union,"530 south state street, ann arbor","point_of_interest, establishment",0.68
+5300 S Loomis Blvd,Arthur A Libby School,"5300 south loomis boulevard, chicago","primary_school, school, point_of_interest, establishment",0.69
+5300 W 73rd St,International Paper Co,"5300 west 73rd street, bedford park","point_of_interest, store, establishment",0.72
+5300 W Chicago Ave,Urban Essentials Coffee Cafe,"5300 west chicago avenue, chicago","cafe, store, food, point_of_interest, establishment",0.72
+5311 N Winthrop Ave,Cedar Playlot Park,"5311 north winthrop avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.72
+5311 S Lake Park Ave,The Promontory,"5311 south lake park avenue west, chicago","point_of_interest, establishment",0.71
+533 W 27th St,Executive Club,"533 west 27th street, new york","point_of_interest, establishment",0.68
+5331 W Devon Ave,"Edgebrook Branch, Chicago Public Library","5331 west devon avenue, chicago","library, point_of_interest, establishment",0.7
+5333 S Sawyer Ave,,,,
+534 N Sacramento Blvd,West Town Academy,"534 north sacramento boulevard, chicago","secondary_school, school, point_of_interest, establishment",0.71
+535 E 35th St,NYU Langone Parking (Under Bridge),"445 east 35th street, new york","parking, point_of_interest, establishment",0.62
+5350 W Bloomingdale Ave,Rock of Salvation Baptist Church,"5350 west bloomingdale avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.75
+5356 S King Dr,Burke Elementary School,"5356 south king drive, chicago","primary_school, school, point_of_interest, establishment",0.68
+5363 W Lawrence Ave,"Jefferson Park Branch, Chicago Public Library","5363 west lawrence avenue, chicago","library, point_of_interest, establishment",0.73
+54 E 54th St,The Hotel Elysee,"60 east 54th street, new york","lodging, point_of_interest, establishment",0.61
+54 N Hermitage Ave,William H Brown STEM Magnet School,"54 north hermitage avenue, chicago","primary_school, point_of_interest, school, establishment",0.71
+540 N Dearborn St,Simplistic Views,"540 north dearborn street, chicago","point_of_interest, establishment",0.69
+5400 N Cicero Ave,"OLA, Inc","5274 north cicero avenue, chicago","point_of_interest, establishment",0.65
+5400 S Pulaski Rd,Peoples Bank,"5410 south pulaski road, chicago","bank, finance, point_of_interest, establishment",0.68
+5400 S Saint Louis Ave,Solorio Academy High School,"5400 south saint louis avenue, chicago","secondary_school, school, point_of_interest, establishment",0.69
+541 N Fairbanks Ct,"Jonathon D. Goldman, MD, MS","541 north fairbanks court, chicago","doctor, health, point_of_interest, establishment",0.71
+5410 S State St,Tutoring Chicago,"5410 south state street, chicago","point_of_interest, establishment",0.68
+5411 W Fullerton Ave,Hanson Park Elementary School,"5411 west fullerton avenue, chicago","primary_school, point_of_interest, school, establishment",0.73
+5413 W Madison St,Dressed 1213 Mobile Boutique,"5411 west madison street, chicago","clothing_store, store, point_of_interest, establishment",0.68
+5415 S Union Ave,Dewey Elementary Academy of Fine Arts,"5415 south union avenue, chicago","primary_school, school, point_of_interest, establishment",0.69
+5417 W Division St,Garces Contractors LLC,"5419 west division street, chicago","general_contractor, point_of_interest, establishment",0.68
+542 S Dearborn St,All Stars Project of Chicago,"542 south dearborn street, chicago","point_of_interest, establishment",0.69
+542 W Hobbie St,Project Education Plus,"542 west hobbie street, chicago","point_of_interest, establishment",0.69
+5421 N Menard Ave,Gladstone (William) Park,"5421 north menard avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.7
+5421 W Devon Ave,North Branch Arts,"5421 west devon avenue, chicago","school, point_of_interest, establishment",0.7
+5430 N Olcott Ave,Oriole Park,"5430 north olcott avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.7
+5430 S Ashland Ave,Pan Americana Auto Parts,"5430 south ashland avenue, chicago","car_repair, store, point_of_interest, establishment",0.71
+5437 W Division St,Vanda Tax & Accounting Inc,"5443 west division street, chicago","accounting, finance, point_of_interest, establishment",0.68
+5440 S Racine Ave,"Sherman Park Branch, Chicago Public Library","5440 south racine avenue, chicago","library, point_of_interest, establishment",0.7
+5445 N Chester Ave,Grandparents Park Playground,"5445 north chester avenue, chicago","point_of_interest, establishment",0.71
+5446 S Greenwood Ave,Stout (Florence) Park,"5446 south greenwood avenue, chicago","park, point_of_interest, establishment",0.72
+545 W Hobbie St,Project Education Plus,"542 west hobbie street, chicago","point_of_interest, establishment",0.66
+5457 W Diversey Ave,Dui Services,"5457 west diversey avenue, chicago","point_of_interest, establishment",0.73
+5458 W Kinzie St,,,,
+5463 W Division St,Christ Resurrection MB Church,"5460 west division street, chicago","church, place_of_worship, point_of_interest, establishment",0.68
+5473 S Cornell Ave,Cornell (Paul) Park,"5473 south cornell avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.71
+5480 S Kenwood Ave,Marsha's Music,"5480 south kenwood avenue, chicago","school, point_of_interest, establishment",0.71
+5491 S Lake Shore Dr,Promontory Field House,"field house, 5491 south dusable lake shore drive, chicago","park, point_of_interest, establishment",0.82
+5491 S Shore Dr,Jackson Shore Co Op,"5490 south shore drive, chicago","point_of_interest, establishment",0.66
+55 W Cermak Rd,A Step Ahead Chess,"55 west cermak road, chicago","point_of_interest, establishment",0.7
+55 W Monroe St,Finra,"55 west monroe street, chicago","finance, point_of_interest, establishment",0.68
+5500 N Saint Louis Ave,Student Media Board,"5500 n st louis ave, e-049, chicago","point_of_interest, establishment",0.72
+5500 S Indiana Ave,Teen Living Programs,"5500 south indiana avenue, chicago","point_of_interest, establishment",0.71
+5500 W Ohio St,Rhema Word Church,"5460 west ohio street, chicago","church, place_of_worship, point_of_interest, establishment",0.62
+5516 S Maplewood Ave,Carson Elementary School,"5516 south maplewood avenue, chicago","primary_school, school, point_of_interest, establishment",0.72
+5531 S King Dr,Washington Park Chicago Park District,"5531 south king drive, chicago","park, point_of_interest, establishment",0.68
+5533 N Broadway St,Steans Heather,"5533 north broadway, chicago","local_government_office, point_of_interest, establishment",0.72
+5534 S Saint Louis Ave,Socorro Sandoval Elementary School,"5534 south saint louis avenue, chicago","primary_school, school, point_of_interest, establishment",0.69
+5545 W Harrison St,Plato Learning Academy,"5545 west harrison street, chicago","primary_school, point_of_interest, school, establishment",0.71
+5548 S Hyde Park Blvd,Little Inspirations East Campus,"5548 south hyde park boulevard, chicago","point_of_interest, establishment",0.71
+555 31st St,31st/McCormick,united states,"transit_station, point_of_interest, establishment",0.7
+555 E 51st St,,,,
+5550 N Magnolia Ave,Cochran (John) Park,"5550 north magnolia avenue, chicago","park, point_of_interest, establishment",0.61
+5550 S Greenwood Ave,Smart Museum of Art,"5550 south greenwood avenue, chicago","tourist_attraction, museum, point_of_interest, establishment",0.72
+5555 W Grand Ave,Chicago Police Department,"5555 west grand avenue, chicago","police, point_of_interest, establishment",0.7
+56 E 47th St,,,,
+560 W Lake St,Academy of General Dentistry,"560 west lake street, chicago","point_of_interest, establishment",0.67
+5601 N Western Ave,"Joanna Sheinkop Sevim, DPM","5616 north western avenue, chicago","physiotherapist, health, point_of_interest, establishment",0.68
+5610 W Lake St,,,,
+5615 S Woodlawn Ave,Sophia Community,"5615 south woodlawn avenue, chicago","point_of_interest, establishment",0.72
+5615 W Race Ave,"Austin Branch, Chicago Public Library","5615 west race avenue, chicago","library, point_of_interest, establishment",0.7
+5625 S Mobile Ave,Wentworth-Kennedy Pool,"5625 south mobile avenue, chicago","point_of_interest, establishment",0.7
+5628 W Washington Blvd,Rock of Our Salvation Church,"5628 west washington boulevard, chicago","church, place_of_worship, point_of_interest, establishment",0.73
+5630 N Lincoln Ave,"Budlong Woods Branch, Chicago Public Library","5630 north lincoln avenue, chicago","library, point_of_interest, establishment",0.71
+5630 S Rockwell St,Gage Park High School,"5630 south rockwell street, chicago","secondary_school, school, point_of_interest, establishment",0.7
+5635 S Indiana Ave,Lorraine Hansberry Park,"5635 south indiana avenue, chicago","park, point_of_interest, establishment",0.71
+5641 S Kenwood Ave,Bixler (Ray) Park,"5641 south kenwood avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.71
+5645 W Corcoran Pl,Malone's Cuts,"5621 west corcoran place, chicago","hair_care, point_of_interest, store, establishment",0.67
+565 W Adams St,,,,
+5650 S Wolcott Ave,Charles R. Henderson Elementary School,"5650 south wolcott avenue, chicago","primary_school, point_of_interest, school, establishment",0.71
+5650 S Woodlawn Ave,First Unitarian Church of Chicago,"5650 south woodlawn avenue, chicago","place_of_worship, point_of_interest, establishment",0.72
+5656 S Saint Louis Ave,"Senka (Edward ""Duke"") Park","5656 south saint louis avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.69
+5656 S St Louis Ave,"Senka (Edward ""Duke"") Park","5656 south saint louis avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.69
+567 W Lake St,Chicago Transit Authority,"567 west lake street, chicago","local_government_office, point_of_interest, establishment",0.67
+5700 S Lake Shore Dr,"Museum of Science and Industry, Chicago","5700 south dusable lake shore drive, chicago","tourist_attraction, museum, point_of_interest, establishment",0.77
+5701 S Shields Ave,Sherwood (Jesse) Park,"5701 south shields avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.71
+5701 W Jackson Blvd,Columbus Park Golf Course,"5701 west jackson boulevard, chicago","point_of_interest, establishment",0.71
+5701 W Madison St,Chicago Police Dept,"5701 west madison street, chicago","police, point_of_interest, establishment",0.7
+5705 S Shields Ave,Chi Town Bulldogs,"5701 south shields avenue, chicago","point_of_interest, establishment",0.68
+5715 S Woodlawn Ave,Jewish Federation of Metropolitan Chicago,"5715 south woodlawn avenue, chicago","point_of_interest, establishment",0.72
+5724 W North Ave,"North Austin Branch, Chicago Public Library","5724 west north avenue, chicago","library, point_of_interest, establishment",0.7
+5727 S Racine Ave,Playground,"5725 south racine avenue, chicago","park, point_of_interest, establishment",0.68
+5729 W Bloomingdale Ave,Galewood Park,"5729 west bloomingdale avenue, chicago","park, point_of_interest, establishment",0.75
+5749 S Perry Ave,Sweet Water Foundation Think-Do House,"5749 south perry avenue, chicago","point_of_interest, establishment",0.69
+5757 S Woodlawn Ave,Frederick C. Robie House,"5757 south woodlawn avenue, chicago","museum, tourist_attraction, point_of_interest, establishment",0.72
+5800 N Lincoln Ave,,,,
+5801 N Natoma Ave,Jazzercise Chicago Norwood Park Field House,"5801 north natoma avenue, chicago","gym, point_of_interest, health, establishment",0.7
+5801 N Pulaski Rd,Prete Apartments,"5801 north pulaski road, chicago","point_of_interest, establishment",0.71
+5801 S Ellis Ave,"Dr. Sean P. Pitroda, MD","information center, edward h. levi hall, 5801 south ellis avenue, chicago","doctor, health, point_of_interest, establishment",0.86
+5815 S Homan Ave,Tonti Elementary School,"5815 south homan avenue, chicago","primary_school, school, point_of_interest, establishment",0.69
+5820 W Chicago Ave,AAABNA,"5820 west chicago avenue, chicago","point_of_interest, establishment",0.72
+5825 S Kostner Ave,Pasteur Elementary School,"5825 south kostner avenue, chicago","primary_school, school, point_of_interest, establishment",0.71
+5835 N Lincoln Ave,Mather High School,"5835 north lincoln avenue, chicago","secondary_school, school, point_of_interest, establishment",0.71
+5839 S Wood St,Basketball Court,"5839 south wood street, chicago","point_of_interest, establishment",0.67
+5841 S Maryland Ave,,,,
+5847 W Montrose Ave,Pete's Pizza #2,"5847 west montrose avenue, chicago","restaurant, food, point_of_interest, establishment",0.73
+5856 S Wabash Ave,Greater Metropolitan Missionary Baptist Church - Food Distribution Center,"5856 south wabash avenue, chicago","point_of_interest, food, establishment",0.7
+5861 N Kostner Ave,Tennis Court,"5861 north kostner avenue, chicago","point_of_interest, establishment",0.71
+5887 N Ridge Ave,Senn (Nicholas) Park,"5887 north ridge avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.69
+59 W North Blvd,Latin School of Chicago,"59 west north boulevard, chicago","secondary_school, school, point_of_interest, establishment",0.68
+5900 N Glenwood Ave,Nicholas Senn High School,"5900 north glenwood avenue, chicago","secondary_school, school, point_of_interest, establishment",0.72
+5900 N Winthrop Ave,George B. Swift Specialty School,"5900 north winthrop avenue, chicago","primary_school, point_of_interest, school, establishment",0.72
+5900 W Iowa St,Hope For Youth Headstart,"5900 west iowa street, chicago","school, point_of_interest, establishment",0.68
+5916 W Lake St,Chicago West Bible Church,"5916 west lake street, chicago","church, place_of_worship, point_of_interest, establishment",0.68
+5917 N Broadway,Illinois Army National Guard Recruiting,"5917 north broadway, chicago","point_of_interest, establishment",0.72
+5917 N Broadway St,Illinois Army National Guard Recruiting,"5917 north broadway, chicago","point_of_interest, establishment",0.72
+5917 North Broadway,,,,
+5920 W Roosevelt Rd,FACES Inc. Barber & Beauty,"5920 west roosevelt road, chicago","hair_care, health, point_of_interest, establishment",0.74
+5922 W Walton St,King's Electrical Services,"5830 west walton street, chicago","electrician, point_of_interest, establishment",0.61
+5925 W Chicago Ave,The Roasted Leaf Cigar & Coffee Cafe,"5925 west chicago avenue, chicago","store, point_of_interest, establishment",0.72
+5936 W Lake St,Prevention Partnership Inc,"5936 west lake street, chicago","point_of_interest, establishment",0.68
+5940 S Central Ave,BBQ Bros Rubs,"5941 south central avenue, los angeles","restaurant, food, point_of_interest, establishment",0.71
+5940 W Chicago Ave,Gone Again Travel & Tours,"5940 west chicago avenue, chicago","travel_agency, point_of_interest, establishment",0.72
+5941 N Richmond St,Mather Park Tennis Court,"5941 north richmond street, chicago","point_of_interest, establishment",0.7
+595 Lake St,,,,
+5951 W Lake St,Austin Park,"5951 west lake street, chicago","park, point_of_interest, establishment",0.68
+5958 S Marshfield Ave,Brightpoint,"5958 south marshfield avenue, chicago","point_of_interest, establishment",0.73

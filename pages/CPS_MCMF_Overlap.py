@@ -87,6 +87,12 @@ st.write("We can note that most of the overlapping nodes fall generally in betwe
 st.write("*These graphs are pretty and all, but what can we draw from these insights?*")
 st.write("I showed this graph to someone who used to work in Museum Education, and part of his reaction was \"so what? My organization had no interest in working with schools.\" And he was right, to an extent — programs have no obligation to widen their programmatic focus to include in-school *and* out-of-school if that doesn't suit their needs and capabilities.")
 st.write("From a top-down data perspective, this splits the visualization into two buckets: Is the minimal overlap due to *lack of data, or lack of interest*? Moreover, if the answer was the latter, and only 5% of providers wanted to work across in-school and out-of-school, what does that say about the sinew of the afterschool ecosystem in Chicago?")
-st.header("Data:")
-st.write("An easy incongruency to see is the difference in structure between the two data sets: CPS lists their providers in relation to school names, while MCMF lists their providers in relation to physical addresses. Moreover, CPS data is sorted into school networks, while MCMF data is sorted by neighborhood.")
-st.write("Data alignment in these categories would help facillitate further analysis, but these limitations **do not change** the fact that there is so little overlap in the provider category: 22/466 providers can be found in both data sets, or about 4.7%  ")
+st.header("Assessing Motives")
+st.write("I recently attended a stakeholder meeting where both CPS and DFSS — which oversees My Chi, My Future—\
+         were in attendance. During the meeting, the DFSS rep voiced that programs in My Chi, My Future felt that they were losing students to in-school programming, and didn't know how to access this population of students. \
+         A major contributing factor to this shift was the fact that it is easier for students to stay at their schools and attend on-site programming. ")
+st.write("Two observations stem from this: First, it combats the idea that the datasets don't overlap due to their lack of mutual interest, and shines a light on the desire, yet inability, to access certain populations from the MCMF side.\
+         Second, it ties into our lab's opportunity landscaping work around where students attend school, versus where they live, and how this affects their geographies of opportunity.")
+#st.header("Data:")
+#st.write("An easy incongruency to see is the difference in structure between the two data sets: CPS lists their providers in relation to school names, while MCMF lists their providers in relation to physical addresses. Moreover, CPS data is sorted into school networks, while MCMF data is sorted by neighborhood.")
+#st.write("Data alignment in these categories would help facillitate further analysis, but these limitations **do not change** the fact that there is so little overlap in the provider category: 22/466 providers can be found in both data sets, or about 4.7%  ")

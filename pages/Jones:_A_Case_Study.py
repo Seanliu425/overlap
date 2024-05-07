@@ -18,10 +18,12 @@ st.markdown(
 
     """
     )
+st.write("***MCMF 2015-2016 Data. Providers in Green, Locations in Red. Node Size corresponds to degree.***")
+st.write("***If the graph is not visible, click the << in the top left.***")
 st.markdown(
         """
         <div style="border: 2px solid #000000; padding: 0px;">
-            <iframe src="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F2f0f8a68e157c036b7db597d0bf3778e%2Fraw%2F5eba0bbfd2a092c7e5f87476d9288e53fb63eaf7%2F15-16.gexf&n=700%20S%20State%20St&ca[]=p&ca[]=g&ca[]=s&ca[]=d-s&ca[]=o-s&st[]=p&st[]=s&st[]=g&st[]=d-n"
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F9779fcf383e7f333561016e69c5d7a5e%2Fraw%2F97a6c56397cff36574b81a03ee42cbac190440d2%2F15-16%252520new.gexf&n=700%20S%20State%20St&ca[]=p&ca[]=g&ca[]=s&ca[]=d-s&ca[]=i-s&ca[]=o-n&st[]=p&st[]=g&st[]=s&st[]=d-n"
   frameBorder="0" width="100%" height="600" style="border:none;"></iframe>
         </div>
         """,
@@ -32,10 +34,36 @@ st.markdown(
       By 2019, however, 700 S State Street ceased to exist within the My Chi, My Future Dataset, and hasn't re-entered the fold since. 
 
       If you've read ***"A Decade of My Chi My Future"***, you may note that the same timespan in which Jones disappeared from the data is the timespan in which 
-      the number of locations that Chicago Public Schools ran programming at skyrocketed from 87 to 200.
+      the number of locations that Chicago Public Schools ran programming at skyrocketed from 87 to 200. However, none of those programs were at Jones College Prep.
 
     """
     )
+st.write("***MCMF 2019-2020 Data. Providers in Green, Locations in Red. Node Size corresponds to degree.***")
+st.markdown(
+        """
+        <div style="border: 2px solid #000000; padding: 0px;">
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F5bb3c30e53066acc767489edef0b3fe7%2Fraw%2F1ad3392aa8919c8d169bc28d713b91847debfac4%2F19-20%252520new.gexf&n=Chicago%20Public%20Schools%20(CPS)&ca[]=p&ca[]=g&ca[]=s&ca[]=i-s&ca[]=o-s&ca[]=d-s&st[]=p&st[]=g&st[]=s&st[]=d-n"
+  frameBorder="0" width="100%" height="600" style="border:none;"></iframe>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+st.write("")
+st.markdown(
+      """
+     **So where did Jones go?** 
+     
+     A dive into CPS's internal dataset shows 119 programs listed from 10/4/21 to 8/1/23, exclusively run by ***School Staff***
+     and ***Central Office Employees*** (*shouldn't this be represented as a CPS -> Jones connection on MCMF?*), but no external providers. 
+     This reflects a key pattern that is detailed in ***"CPS MCMF Overlap"***: That internal school programs have begun to overtake external provider programming within the Chicago OST ecosystem.
+
+    It can be useful to think about the role of Jones in the OST ecosystem geographically, as well. Jones is just down the street from the City of Chicago's flagship library, Harold Washington Library Center.
+    
+    Why aren't they working together? Or perhaps a better question to ask is: how can we get them to work together?
+    """
+    )
+
+
 
 st.write("**Jones CP proximity to Harold Washington Library**")
     
@@ -53,4 +81,13 @@ folium.PolyLine(locations=[start_point, end_point], color='blue').add_to(m)
 
     # Display the map using Folium's built-in function for Streamlit
 folium_static(m)
+
+st.markdown(
+      """
+     The goal of this little deep dive is not to chastise Jones for moving their programs in-house, but rather to start a dialogue around what factors are leading to this.
+     Data transparency is also important to help programs in My Chi, My Future understand patterns of participation from their locations. 
+     
+     From the MCMF side, they can see that Jones stopped running programming, but they can't see where it went — to internal programming. For programs in MCMF that are looking to re-engage with these school populations, this information could be useful.
+    """
+    )
 

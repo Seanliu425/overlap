@@ -1,0 +1,101 @@
+Address,Name,Formatted Address,Types,Match Score
+1 E Jackson Blvd,DePaul University - Loop Campus,"1 east jackson boulevard, chicago","university, point_of_interest, establishment",0.68
+1 E Upper Wacker Dr,,,,
+1 N Dearborn St,interactiveAmy Social Media Consulting,"1 north dearborn street, chicago","point_of_interest, establishment",0.68
+1 N La Salle St,Aurora Firefighters Credit Union,"88 north la salle street, aurora","finance, point_of_interest, establishment",0.62
+1 N Ogden Ave,The Salvation Army Chicago Temple Corps Community Center,"1 north ogden avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.67
+1 N Wacker Dr,Northwestern Mutual Wealth Management Company: Pamela C Atkinson,"ubs tower, north wacker drive, chicago","finance, point_of_interest, establishment",0.72
+1 University Pkwy,,,,
+10 E Randolph St,The Joffrey Ballet,"10 east randolph street, chicago","point_of_interest, establishment",0.69
+10 W 32nd St,miss KOREA BBQ,"10 west 32nd street, new york","bar, restaurant, food, point_of_interest, establishment",0.67
+10 W 33rd St,Jackson Corporation,"10 west 33rd street #240, new york","store, point_of_interest, establishment",0.62
+10 W 35th St,JLC Studio,"10 west 35th street, chicago","point_of_interest, establishment",0.66
+100 N Central Ave,,,,
+100 N Central Park Ave,Netta B. Bistro,"100 north central park avenue, chicago","restaurant, food, point_of_interest, establishment",0.74
+100 S Racine Ave,Chicago Children's Theatre,"100 south racine avenue, chicago","point_of_interest, establishment",0.69
+1000 E 73rd St,,,,
+1000 Grove St,,,,
+1000 Lake Cook Rd,The Garden View Café at the Chicago Botanic Garden,"1000 lake cook road, glencoe","cafe, store, restaurant, food, point_of_interest, establishment",0.75
+1000 W Fulton Market,ColorJar,"1000 west fulton market, chicago","point_of_interest, establishment",0.76
+10001 S Woodlawn Ave,Olive-Harvey College,"10001 south woodlawn avenue, chicago","library, university, point_of_interest, establishment",0.72
+10009 S Yates Blvd,GLO Academy,"10009 south yates boulevard, chicago","school, point_of_interest, establishment",0.69
+1001 N Crosby St,Park Community Church - Near North,"1001 north crosby street, chicago","church, place_of_worship, point_of_interest, establishment",0.68
+1001 W Wrightwood Ave,Jonquil Park,"1001 west wrightwood avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.74
+1002 S Columbus Dr,,,,
+10046 S Western Ave,MRS Quality Tax Service,"10032 south western avenue, los angeles","accounting, finance, point_of_interest, establishment",0.7
+100K Opportunities,,,,
+101 N Upper Wacker Dr,TTX Company,"101 north wacker drive, chicago","point_of_interest, establishment",0.69
+10108 S Exchange Ave,Park No. 583,"10108 south exchange avenue, chicago","park, point_of_interest, establishment",0.72
+1012 N Noble St,Adventure Stage Chicago,"1012 north noble street, chicago","point_of_interest, establishment",0.68
+1014 E 47th St,Robert K Friedman Lcsw,"1040 east 47th street, chicago","doctor, health, point_of_interest, establishment",0.65
+1016 N Dearborn St,Congo Square Theatre Co,"1016 north dearborn street, chicago","point_of_interest, establishment",0.7
+1016 W Argyle St,Chinese Mutual Aid Association,"1016 west argyle street, chicago","point_of_interest, establishment",0.69
+1018 N Laramie Ave,John Hay Community Academy,"1018 north laramie avenue, chicago","primary_school, school, point_of_interest, establishment",0.71
+1020 W Bryn Mawr Ave,City Lit Theater Company,"1020 west bryn mawr avenue, chicago","point_of_interest, establishment",0.73
+10201 S Cottage Grove Ave,Gailey Park athletic club,"10201 south cottage grove avenue, chicago","point_of_interest, establishment",0.76
+1023 W Wrightwood Ave,City Kickball Club - Closed Permenantly,"1023 west wrightwood avenue, chicago","point_of_interest, establishment",0.74
+1025 W Belmont Ave,Chipotle Mexican Grill,"1025 west belmont avenue, chicago","restaurant, point_of_interest, food, establishment",0.72
+1030 W Van Buren St,Crown Family YMCA Center,"1030 west van buren street, chicago","school, point_of_interest, establishment",0.72
+10300 S Avenue H,Pronto Café,"3105 avenue h, brooklyn","cafe, restaurant, food, store, point_of_interest, establishment",0.72
+10309 S Morgan St,Marcus Garvey Elementary School,"10309 south morgan street, chicago","primary_school, school, point_of_interest, establishment",0.69
+1032 W Sheridan Rd,The Graduate School at Loyola University Chicago,"1032 west sheridan road, chicago","university, point_of_interest, establishment",0.61
+10330 S Elizabeth St,Percy Julian High School,"10330 south elizabeth street, chicago","secondary_school, school, point_of_interest, establishment",0.72
+1034 N Wells St,Walter Payton College Preparatory High School,"1034 north wells street, chicago","secondary_school, school, point_of_interest, establishment",0.68
+10347 S Ewing Ave,Matthew Gallistel Language Academy,"10347 south ewing avenue, chicago","primary_school, school, point_of_interest, establishment",0.7
+10355 S Woodlawn Ave,Pullman Omniplex Stadium,"10355 south woodlawn avenue, chicago","stadium, point_of_interest, establishment",0.72
+1040 W Harrison St,UIC College of Education,"1040 west harrison street, chicago","university, point_of_interest, establishment",0.71
+10406 S Maryland Ave,National A. Philip Randolph Pullman Porter Museum,"10406 south maryland avenue, chicago","tourist_attraction, museum, point_of_interest, establishment",0.72
+10420 S Halsted St,South Side Help Center Inc,"10420 south halsted street, chicago","point_of_interest, establishment",0.7
+10436 S Wallace St,Fernwood Park,"10436 south wallace street, chicago","park, point_of_interest, establishment",0.7
+1044 N Francisco Ave,Norwegian American Hospital: Vijay Nisha MD,"1044 north francisco avenue, chicago","doctor, health, point_of_interest, establishment",0.72
+1049 W Buena Ave,Buena Circle Park,"1049 west buena avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.7
+10500 S Ewing Ave,Bumper to Bumper Skyway,"10458 south ewing avenue, chicago","car_repair, store, point_of_interest, establishment",0.65
+10509 S Torrence Ave,Philip Randolph Prologue,"10509 south torrence avenue, chicago","school, point_of_interest, establishment",0.72
+1053 N California Ave,Healthy Living Chicago,"1053 north california avenue, chicago","point_of_interest, store, food, establishment",0.73
+10540 S Morgan St,Jackie Robinson Park,"10540 south morgan street, chicago","park, tourist_attraction, point_of_interest, establishment",0.69
+10556 S Avenue L,,,,
+10558 S Avenue L,,,,
+1060 E 47th St,Little Black Pearl Workshop,"1060 east 47th street, chicago","point_of_interest, establishment",0.68
+107 W Van Buren St,Jiffy Lube,"115 east van buren street, avondale","car_repair, point_of_interest, establishment",0.64
+10714 S Sawyer Ave,Mc Kiernan Park,"10714 south sawyer avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.71
+10740 S Calhoun Ave,Orville T Bright School,"10740 south calhoun avenue, chicago","primary_school, school, point_of_interest, establishment",0.72
+108 N State St,,,,
+10810 S Avenue H,Pronto Café,"3105 avenue h, brooklyn","cafe, restaurant, point_of_interest, store, food, establishment",0.72
+109 E 43rd St,,,,
+109 N Wabena Ave,Three Rivers Public Library District- Minooka Branch,"109 north wabena avenue, minooka","library, point_of_interest, establishment",0.69
+10909 S Cottage Grove Ave,The Hope Center Foundation,"10909 south cottage grove avenue, chicago","point_of_interest, establishment",0.76
+11 E Adams St,Center For Conflict Resolution,"11 east adams street, chicago","point_of_interest, establishment",0.67
+1100 S Hamilton Ave,Dr. Allison Mason,"1100 south hamilton avenue, chicago","health, point_of_interest, establishment",0.72
+1100 W Madison St,Poke Poké,"1100 west madison street, chicago","restaurant, point_of_interest, food, establishment",0.7
+11000 S Ewing Ave,East Side United Methodist Church,"11000 south ewing avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.7
+11001 S Indiana Ave,"Pullman Branch, Chicago Public Library","11001 south indiana avenue, chicago","library, point_of_interest, establishment",0.72
+11001 S Michigan Ave,OmniSuite LLC,"11001 south michigan avenue, chicago","point_of_interest, establishment",0.72
+11006 S Michigan Ave,TTTF Entertainment INC,"11006 south michigan avenue, chicago","point_of_interest, store, establishment",0.72
+1101 W Granville Ave,Gino's North,"1111 west granville avenue, chicago","restaurant, food, point_of_interest, establishment",0.71
+1101 W Taylor St,,,,
+11010 S Kedzie Ave,"Mount Greenwood Branch, Chicago Public Library","11010 south kedzie avenue, chicago","library, point_of_interest, establishment",0.71
+11026 S Indiana Ave,Kingdom Coalition International Fellowship,"11026 south indiana avenue, chicago","church, place_of_worship, point_of_interest, establishment",0.72
+1104 S Wabash Ave,Columbia College,"1104 south wabash avenue, chicago","university, school, point_of_interest, establishment",0.7
+1104 W 31st St,,,,
+11071 S Hoyne Ave,"Walker Branch, Chicago Public Library","11071 south hoyne avenue, chicago","library, point_of_interest, establishment",0.7
+111 E Wacker Dr,Kovitz Arnold Kathryn,"111 east wacker drive, chicago","lawyer, point_of_interest, establishment",0.7
+111 S Michigan Ave,The Art Institute of Chicago,"111 south michigan avenue, chicago","museum, tourist_attraction, point_of_interest, establishment",0.71
+1110 N California Ave,Dr. Jane Maralimo,"1110 north california avenue, chicago","doctor, health, point_of_interest, establishment",0.73
+11101 S Cottage Grove Ave,Pullman (George) Park,"11101 south cottage grove avenue, chicago","park, point_of_interest, establishment",0.76
+1111 E 87th St,Chicago Greenwood - Internal Medicine,"1111 east 87th street, chicago","doctor, health, point_of_interest, establishment",0.68
+11113 S Cottage Grove Ave,Pullman (George) Park,"11101 south cottage grove avenue, chicago","park, point_of_interest, establishment",0.73
+11137 S Langley Ave,Block House Gallery,"11137 south langley avenue, chicago","art_gallery, point_of_interest, establishment",0.72
+11144 S St Lawrence Ave,Arcade Park,"11132 south saint lawrence avenue, chicago","park, tourist_attraction, point_of_interest, establishment",0.67
+11158 S Michigan Ave,THE CHICAGOAN....All I NEED IS GOD,"11158 south michigan avenue, chicago","point_of_interest, establishment",0.72
+1116 E 46th St,Bidmead & Younger Construction,"1114 east 46th street, indianapolis","general_contractor, point_of_interest, establishment",0.69
+1116 N Kedzie Ave,Association House of Chicago,"1116 north kedzie avenue, chicago","secondary_school, school, health, point_of_interest, establishment",0.7
+1119 E 46th St,"Broad Ripple Haverford Little League, Diamond 5","1209 east 46th street, indianapolis","point_of_interest, establishment",0.67
+1119 N Cleveland Ave,The Ogden International School of Chicago - Jenner Campus,"1119 north cleveland avenue, chicago","primary_school, point_of_interest, school, establishment",0.72
+1119 W Cullerton St,ElevArte Community Studio,"1119 west cullerton street, chicago","point_of_interest, establishment",0.72
+1120 W 122nd St,,,,
+1120 W 69th St,J&I buildex inc,"1111 west 69th street, los angeles","general_contractor, point_of_interest, establishment",0.66
+11201 S Avenue L,,,,
+1122 N Milwaukee Ave,Added Chance,"1122 north milwaukee avenue, chicago","point_of_interest, establishment",0.72
+1122 W 34th Pl,,,,
+11220 S Wallace St,Christian Fenger Academy High School,"11220 south wallace street, chicago","secondary_school, school, point_of_interest, establishment",0.7
+11221 S Homewood Ave,Morgan Park Electrical,"11239 south homewood avenue, chicago","electrician, point_of_interest, establishment",0.68
