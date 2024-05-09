@@ -96,9 +96,18 @@ st.write("I recently attended a stakeholder meeting where both CPS and DFSS — 
          A major contributing factor to this shift was the fact that it is easier for students to stay at their schools and attend on-site programming. ")
 st.write("Two observations stem from this: First, it combats the idea that the datasets don't overlap due to their lack of mutual interest, and shines a light on the desire, yet inability, to access certain populations from the MCMF side.\
          Second, it ties into our lab's opportunity landscaping work around where students attend school, versus where they live, and how this affects their geographies of opportunity.")
+st.write("The introduction of selective enrollment and selective transfer into the CPS system has led to an increase in the amount of students that live and go to school in different communities ***(cite?)***.\
+         We can think about this in relation to the aforementioned shift in OST provider locations — namely, the possibility of a causal relationship between these\
+         two trends. Students moving out of their neighborhood schools is not just an academic decision; it represents a shift in their nearby environments, social circles, and daily routines.\
+         The departure from their home community puts them into closer proximity with programming in their new neighborhoods — however, they lack the natural knowledge of the opportunity landscape\
+         that is derived from growing up within the community. It is natural, then, that they turn to their place of familiarity in a new neighborhood: Programming run by their school.")
+st.write("This shift contains inherent danger towards the health of an overall OST ecosystem. Programming that cannot cultivate participation in their local communities may close, shutting out opportunities for those that remain in their communities or cannot mobilize to hotspots of opportunity. *Is there a specific argument for why it is important to have in-school and out-of school programming? flexibility? resources? freedom from school bureaucracy?*")
+st.write("")
 #st.header("Data:")
 #st.write("An easy incongruency to see is the difference in structure between the two data sets: CPS lists their providers in relation to school names, while MCMF lists their providers in relation to physical addresses. Moreover, CPS data is sorted into school networks, while MCMF data is sorted by neighborhood.")
 #st.write("Data alignment in these categories would help facillitate further analysis, but these limitations **do not change** the fact that there is so little overlap in the provider category: 22/466 providers can be found in both data sets, or about 4.7%  ")
+st.header("Rethinking OST Outreach Design")
+st.image("stream.png" )
 
 
 
