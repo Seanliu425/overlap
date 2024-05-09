@@ -23,7 +23,7 @@ st.write("***If the graph is not visible, click the << in the top left.***")
 st.markdown(
         """
         <div style="border: 2px solid #000000; padding: 0px;">
-            <iframe src="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F9779fcf383e7f333561016e69c5d7a5e%2Fraw%2F97a6c56397cff36574b81a03ee42cbac190440d2%2F15-16%252520new.gexf&n=700%20S%20State%20St&ca[]=p&ca[]=g&ca[]=s&ca[]=d-s&ca[]=i-s&ca[]=o-n&st[]=p&st[]=g&st[]=s&st[]=d-n"
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2Fd6300c2bb749924b940bb5050739107a%2Fraw%2F4b019a6bf20d2712c3ca0714dfd3c82ebd3b79bd%2F15-16%252520new.gexf&n=700%20S%20State%20St&ca[]=p&ca[]=g&ca[]=s&ca[]=i-s&ca[]=o-s&ca[]=d-s&st[]=g&st[]=p&st[]=s&st[]=d-n"
   frameBorder="0" width="100%" height="600" style="border:none;"></iframe>
         </div>
         """,
@@ -42,7 +42,7 @@ st.write("***MCMF 2019-2020 Data. Providers in Green, Locations in Red. Node Siz
 st.markdown(
         """
         <div style="border: 2px solid #000000; padding: 0px;">
-            <iframe src="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F5bb3c30e53066acc767489edef0b3fe7%2Fraw%2F1ad3392aa8919c8d169bc28d713b91847debfac4%2F19-20%252520new.gexf&n=Chicago%20Public%20Schools%20(CPS)&ca[]=p&ca[]=g&ca[]=s&ca[]=i-s&ca[]=o-s&ca[]=d-s&st[]=p&st[]=g&st[]=s&st[]=d-n"
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F9c784d5aeb31c151e90ea30792077264%2Fraw%2F020a0215da43a607d8af8343b1df5f728682892f%2F19-20%252520new.gexf&n=Chicago%20Public%20Schools%20(CPS)&ca[]=p&ca[]=g&ca[]=s&ca[]=i-s&ca[]=o-s&ca[]=d-s&st[]=p&st[]=s&st[]=g&st[]=d-n"
   frameBorder="0" width="100%" height="600" style="border:none;"></iframe>
         </div>
         """,

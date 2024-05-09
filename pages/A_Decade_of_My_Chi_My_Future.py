@@ -19,7 +19,7 @@ st.write("***MCMF 2015-2016 Data. Providers in Green, Locations in Red. Node Siz
 st.markdown(
         """
         <div style="border: 2px solid #000000; padding: 0px;">
-            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F2f0f8a68e157c036b7db597d0bf3778e%2Fraw%2F5eba0bbfd2a092c7e5f87476d9288e53fb63eaf7%2F15-16.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=d-s&ca[]=o-s&st[]=p&st[]=s&st[]=g&st[]=d-n" width="100%" height="600" style="border:none;"></iframe>
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2Fd6300c2bb749924b940bb5050739107a%2Fraw%2F4b019a6bf20d2712c3ca0714dfd3c82ebd3b79bd%2F15-16%252520new.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=i-s&ca[]=o-s&ca[]=d-s&st[]=g&st[]=p&st[]=s&st[]=d-n" width="100%" height="600" style="border:none;"></iframe>
         </div>
     
         """,
@@ -33,7 +33,7 @@ st.write("***MCMF 2017-2018 Data. Providers in Green, Locations in Red. Node Siz
 st.markdown(
         """
         <div style="border: 2px solid #000000; padding: 0px;">
-            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2Fd4dd00023fcf999c7bac55ccb34929a0%2Fraw%2F739e64aee60b2a3dba79b3cdab3d94453dda4a5a%2F17-18.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=d-s&st[]=d-n&st[]=p&st[]=g&st[]=s" width="100%" height="600" style="border:none;"></iframe>
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F1851a45cbe5f3858bd441c5b6f47263f%2Fraw%2F66956755f6f208b415b4c44a75498dc4db3b7c88%2F17-18%252520New.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=i-s&ca[]=o-s&ca[]=d-s&st[]=p&st[]=g&st[]=s&st[]=d-n" width="100%" height="600" style="border:none;"></iframe>
         </div>
     
         """,
@@ -47,7 +47,7 @@ st.write("***MCMF 2019-2020 Data. Providers in Green, Locations in Red. Node Siz
 st.markdown(
         """
         <div style="border: 2px solid #000000; padding: 0px;">
-            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F91b2f58dce28158c6324b8470a317638%2Fraw%2Fceb5fc43ef2e63458aac5d921b15e1d19e4042d3%2F19-20.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=d-s&st[]=d-n&st[]=g&st[]=s&st[]=p" width="100%" height="600" style="border:none;"></iframe>
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F9c784d5aeb31c151e90ea30792077264%2Fraw%2F020a0215da43a607d8af8343b1df5f728682892f%2F19-20%252520new.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=i-s&ca[]=o-s&ca[]=d-s&st[]=p&st[]=s&st[]=g&st[]=d-n" width="100%" height="600" style="border:none;"></iframe>
         </div>
     
         """,
@@ -62,7 +62,7 @@ st.write("***MCMF 2021-2022 Data. Providers in Green, Locations in Red. Node Siz
 st.markdown(
         """
         <div style="border: 2px solid #000000; padding: 0px;">
-            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2Fb9901026582e4b3a814c1b4e9c2814fd%2Fraw%2Fdb39bc4fca9ae9c7a0724126457acda9e757d1dd%2F21-22.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=d-s&st[]=d-n&st[]=p&st[]=g&st[]=s" width="100%" height="600" style="border:none;"></iframe>
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F49156de47944d2c860361be16baf9642%2Fraw%2F8a580e88e9eede03bf0345f9d9e0e32cbb972ff5%2F21-22%252520New.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=i-s&ca[]=o-s&ca[]=d-s&st[]=p&st[]=g&st[]=s&st[]=d-n" width="100%" height="600" style="border:none;"></iframe>
         </div>
     
         """,
@@ -76,7 +76,7 @@ st.write("***MCMF 2023-2024 Data. Providers in Green, Locations in Red. Node Siz
 st.markdown(
         """
         <div style="border: 2px solid #000000; padding: 0px;">
-            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F799a44c4d49793657781bf0a038e4b08%2Fraw%2F9283248c0aa75e7c94ac0b94b5c0391cfaaa1b0d%2F23-24.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=d-s&st[]=d-n&st[]=p&st[]=s&st[]=g" width="100%" height="600" style="border:none;"></iframe>
+            <iframe src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FSeanliu425%2F3650b4b6962c3431f4479ade1b58057b%2Fraw%2F621fa230c829901616f46ea11188b81a32032907%2F23-24%252520New.gexf&ca[]=p&ca[]=g&ca[]=s&ca[]=i-s&ca[]=o-s&ca[]=d-s&st[]=p&st[]=g&st[]=s&st[]=d-n" width="100%" height="600" style="border:none;"></iframe>
         </div>
     
         """,
